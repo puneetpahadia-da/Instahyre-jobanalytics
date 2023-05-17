@@ -1,0 +1,735 @@
+details_id,skills,hr_name
+0,"Data Entry, Documentation, Operations Management",Revati Agnihotri
+1,"Digital Marketing, Marketing Communication",Tejashwini Kanashetti
+2,"Accounting, Chartered Accountant, ERP Implementation, Finance, NetSuite",Azhar Ahmed
+3,"Key Account Management, Microsoft Excel, Sales Forecasting, Sales Operations",Marsina Waffa
+4,"Business Development, CRM, Demand Generation, Email Marketing, Lead Generation, LinkedIn Marketing",Marsina Waffa
+5,"BPO Operations, Corporate Training, LMS, Sales, Sales Training, Telecalling",Marsina Waffa
+6,"Data Visualization, Microsoft Excel, Operations Management, Power BI, SQL, Tableau",Marsina Waffa
+7,"Corporate Sales, Key Account Management, LinkedIn Sales Navigator",Sabari Prasad
+8,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",Meenal Sharma
+9,"Customer Relationship, Customer Service, Key Account Management",Vasumathi Govindaraj
+0,"Data Entry, Documentation, Operations Management",Revati Agnihotri
+1,"Digital Marketing, Marketing Communication",Tejashwini Kanashetti
+2,"Accounting, Chartered Accountant, ERP Implementation, Finance, NetSuite",Azhar Ahmed
+3,"Key Account Management, Microsoft Excel, Sales Forecasting, Sales Operations",Marsina Waffa
+4,"Business Development, CRM, Demand Generation, Email Marketing, Lead Generation, LinkedIn Marketing",Marsina Waffa
+5,"BPO Operations, Corporate Training, LMS, Sales, Sales Training, Telecalling",Marsina Waffa
+6,"Data Visualization, Microsoft Excel, Operations Management, Power BI, SQL, Tableau",Marsina Waffa
+7,"Corporate Sales, Key Account Management, LinkedIn Sales Navigator",Sabari Prasad
+8,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",Meenal Sharma
+9,"Customer Relationship, Customer Service, Key Account Management",Vasumathi Govindaraj
+10,"Angular, Java, Microservices, Spring Boot",Akshata
+11,"Content Marketing, Digital Marketing, Facebook Marketing, Google Ads, Performance Marketing, SEM, SEO, Social Media Marketing",Aikya Chakraborty
+12,"Channel Sales, Payment Processing, Revenue Management, Sales, Strategic Planning",Libin O K
+13,Product Management,Hr
+14,"Automation Testing, LMS, LOS, Manual Testing, Project Management, SQL",Hr
+15,"Algorithms, Data Structures, Django, Flask, Java, Microservices, MongoDB, Node.js, Python, Spring",Hr
+16,"Swift, SwiftUI, iOS",Asutosh Maharana
+17,"Business Development, International Sales, Key Account Management, LinkedIn Sales Navigator, Sales",Vaidehi Tipnis
+18,"AWS, Machine Learning, NLP, OCR, Python, pandas",Vaidehi Tipnis
+19,"Postman, Swagger, Technical Writing",Neha Khaitan
+20,"Customer Interaction, Customer Relationship, Key Account Management, Strategic Planning",Rekha Singh
+21,Adobe Experience Manager (AEM),Akshata
+22,"Automation Testing, Pega, Selenium",Akshata
+23,"IT Recruitment, Recruitment",Simran Kaur
+24,"API Testing, Appium, Cucumber, JMeter, Java, Mobile Apps Testing, Performance Testing, Python, Ruby, SDET, Selenium, SoapUI",Akshata
+25,"Databricks, ETL, Hadoop, PySpark, Snowflake, Spark",Akshata
+26,"Ansible, Azure, CI - CD, DevOps, Kafka",Akshata
+27,".NET, ASP.NET, Angular, Azure, Bootstrap, C#, CSS, HTML",Akshata
+28,"BigQuery, Dataflow, Google Cloud, Python",Akshata
+29,"Informatica, Informatica PowerCenter",Akshata
+30,"Automation Testing, QTP",Akshata
+31,"Oracle RAC, PL-SQL",Akshata
+32,"Data Warehousing, ETL, SQL, Snowflake",Akshata
+33,"Python, SQL, Machine Learning, AWS, TensorFlow",Ratna Kumar S
+34,"Java, Spring Boot, Microservices, API Testing",Opportunity Rm
+35,"Content Marketing, Brand Management, Educational Content",Shilpi Lalotra
+36,"Python, SQL, Machine Learning, AWS, Amazon Redshift",Ratna Kumar S
+37,"Python, FastAPI, Flask, Node.js",Drashti Dawda
+38,"Data Structures, Algorithms, Python, Node.js",Sindhuja
+39,Kotlin,Rohit Dutt
+40,"Motion Graphics, 2D Animation, 3D Animation, Graphic Design",Seema Manglani
+41,"Java, Spring, Informatica, ETL, Microservices",Shilpa Naik
+42,"Java, Spring Boot, ETL, Informatica, Oracle Database",Subhra Mohanty
+43,"Marketing, ATL, BTL, Brand Management, Digital Marketing",Consult Bae
+44,"Java, Python, Golang",Opportunity Rm
+34,"Java, Spring Boot, Microservices, API Testing",Opportunity Rm
+45,"Scrum, Agile, Business Analysis",Pooja Angadi
+46,"Data Analysis, Business Intelligence, Tableau, SQL, Python",Vaani Sharma
+47,".NET, Angular, ASP.NET, Azure, SQL",Saritha
+48,"Java, Spring",Udeshna Boruah Kalita
+49,"Ruby on Rails, PostgreSQL, Git, XML",Nayaab Khan
+50,"Data Structures, Algorithms, Node.js, Python, Django",Sowrabh Rajesh
+51,"Spring, Java, Data Structures, Algorithms, LLD",Nisha Sharma
+52,"SQL, Oracle Access Manager, PostgreSQL",Jeevitha N A
+53,"Machine Learning, Python, Computer Vision, PyTorch, Neural Networks",Videsh
+54,"Ethical Hacking, Penetration Testing",Srilekha Addanki
+55,"Python, SQL, PySpark, AWS, Azure",Akshatha Hydri
+56,"Power BI, Azure Data Factory, ETL, Databricks",Jeevitha N A
+57,"Java, Spring, Data Structures, Scala, Microservices",Ankit Sinha
+58,Graphic Design,Swati
+59,"Product Management, Stakeholder Management, Customer Service, Product Lifecycle Management, Agile",Naveen Taalanki
+60,"Routing, Switching, Networking, DevOps",Khushboo Kothari
+61,"SAP CPQ, JavaScript, Knockout.js, Python, SAP C4C",Sai Reddy Tatiparthi
+62,"Oracle Database, MySQL, Database Administration, Database Development",Krishna Kanabur
+52,"SQL, Oracle Access Manager, PostgreSQL",Jeevitha N A
+63,"Customer Service, Customer Interaction",Saima Mazhar
+64,"SOP, KPI, SME, Loans, Operations Management",Geeti
+65,"ETL, AWS, Python, Big Data, MongoDB",Aditi Pradhan
+66,"Project Management, Scrum, Agile, Machine Learning, Product Lifecycle Management",Naveen Taalanki
+67,"Project Management, Agile, Scrum, IT Support, Program Management",Naveen Taalanki
+68,"Product Management, SQL, Tableau, Figma, Jira",Priya Desai
+69,"React.js, JavaScript, Node.js, CSS, HTML",Consult Bae
+70,"Sales, Business Development, Corporate Sales, Direct Sales, International Sales",Consult Bae
+71,"Angular, JavaScript, HTML, Node.js, CSS",Rohini N
+72,"Tricentis Tosca, Automation Testing, API Testing, UI Testing, Selenium",Akanksha Thakur
+73,"Customer Service, Customer Relationship, Customer Interaction, Sales",Manzar Imam
+74,"JMeter, LoadRunner",Omkar Sonawane
+75,"React.js, Redux",Venkata Bubesh Kanna Jayaraman
+76,".NET, Azure Cosmos DB",Palak Parashar
+77,Digital Marketing,Varshini R
+78,Sales,Priya Garg Hiring For Multiple Positions
+79,"React Native, React.js",Suman Kumari
+80,"JavaScript, React.js, Angular, HTML, Engineering Management",Khushboo Kothari
+81,"ETL, AWS, Python",Pradeep Shetty
+82,"React.js, AWS, Node.js",Vidya Vm
+83,"Java, React.js, Spring Boot, Redux",Seema Chawla
+84,"Java, SQL Server, Unix, Linux, Splunk",Anupama P Manoj
+85,"SSIS, SQL Server, ETL, Unix, Linux",Anupama P Manoj
+86,".NET, JavaScript, Angular, AWS, Azure",Anupama P Manoj
+87,"Power BI, Databricks, Azure Data Factory, ETL",Thilak K
+88,"Business Development, Sales, Customer Service, Telecalling",Varshini R
+89,"Java, React.js, AWS, PostgreSQL, CMS",Nikita Jaiswal
+90,"Python, Machine Learning, SQL, Data Mining",Aneesha Chandrabhanu
+91,"MongoDB, Node.js, React.js, AWS, JavaScript",Precilla
+92,"Project Management, Agile, Scrum, UX Design",Ayushi Jain
+93,"Product Management, Agile, Product Lifecycle Management",C J Rahul David
+94,"D3.js, React.js, Chartering, CSS, Data Structures",Annu Rekha
+95,.NET,Omkar Sonawane
+95,.NET,Omkar Sonawane
+96,"Kubernetes, Terraform, AWS, Docker",Manjari Rastogi
+97,"DevOps, AWS, Kubernetes, Docker, Terraform",Fredina Graceline
+98,"Chartered Accountant, Accounting, Finance, Statutory Audit",Gogineni Bhavya
+99,"Node.js, React.js, AWS, MySQL",Vidya Vm
+100,"CSM, Customer Interaction, Customer Relationship",Arun Ks
+101,"Project Management, Agile, PMP, Service Delivery, Technical Consulting",Rajeev Sharma
+92,"Project Management, Agile, Scrum, UX Design",Ayushi Jain
+95,.NET,Omkar Sonawane
+102,"Java, Python, Node.js, JavaScript",Sharmila M
+103,"Data Structures, Algorithms, Golang, Python, Kubernetes",Kalyani Kandhilal
+104,"Siebel EAI, Siebel Workflow, Siebel Scripting",Jai Nayak
+105,"Sales, Business Development, Customer Service, Customer Relationship, Customer Interaction",Manzar Imam
+106,"Java, JavaScript, Spring Boot, SQL, Hadoop",Rohini N
+107,"Data Migration, US GAAP, Data Collection, Microsoft Excel",Karthik T
+108,"ETL, AWS, Matillion, Talend",Opportunity Rm
+109,"Java, Spring Boot, MariaDB, MongoDB, J2EE",Archana Manne
+110,"Business Development, Direct Sales, Microsoft Office, Corporate Sales, Healthcare",Avjyot
+111,"Sales, Business Development, Direct Sales",Momeena A
+112,"ERP Implementation, Vendor Management, Documentation, IT Infrastructure",Rayal Rajan
+113,"Finance, Taxation, Payroll Management, Auditing",Rayal Rajan
+114,"Python, Django, Architecture",Priyanka Paul
+115,"Product Management, Consumer Software, Big Data, Microservices",Tejas V
+116,"Robotic Process Automation, Microsoft Power Apps, Power Automate, UiPath, Automation Anywhere",Ritik Chaudhary
+48,"Java, Spring",Udeshna Boruah Kalita
+117,"ETL, AWS, Golang, Amazon Redshift, MongoDB",Aditi Pradhan
+118,"ETL, Python, AWS, Amazon Redshift, MongoDB",Aditi Pradhan
+119,"ETL, Golang, AWS, MongoDB, Hadoop",Aditi Pradhan
+120,"ASP.NET, C#, SQL",Dhara Raval
+121,"ASP.NET, C#, SQL, .NET",Dhara Raval
+122,"Java, Spring Boot, Data Structures",Vandana Bali
+123,"PySpark, Python, SQL, AWS, Azure",Abhishu Venkata Varahagiri
+124,"Supply Chain Management, Order Fulfillment, Inventory Management, Procurement, Demand Forecasting",Swapnil Nautiyal
+125,"Java, Angular, Spring, AWS, Microservices",Kavya Shree
+126,"AWS, Ansible, Linux, Terraform, Kubernetes",Kavya Shree
+127,"Program Management, Machine Learning, ERP Implementation",Archi Kathuria
+128,"Big Data, Google Cloud, Python, Scala, PySpark",Saritha
+129,"Big Data, AWS, Python, Airflow, PySpark",Saritha
+130,"UX Design, Adobe XD, Sketch, HTML, Visual Design",Consult Bae
+131,"DevOps, Deployment, Jenkins, AWS, Shell Scripting",Vinay Garg
+132,"Customer Service, Content Marketing, Product Marketing",Sindhu Chakraborty Ramachandran
+133,"Graphic Design, InDesign, Illustrator, Photoshop, Dreamweaver",Consult Bae
+134,"Node.js, MongoDB, Express.js, Cassandra, Redis",Shrashti Nayak
+135,".NET, C#, ASP.NET, SQL Server, Swagger",Vaibhav Singh
+136,"Angular, React.js, JavaScript, HTML, CSS",Vaibhav Singh
+137,"Scrum, Jira, Agile, Program Management, PMO",Vaibhav Singh
+138,"Data Analysis, Python, Tableau, Data Warehousing, SQL",Rayal Rajan
+127,"Program Management, Machine Learning, ERP Implementation",Archi Kathuria
+139,"Java, React.js",Omkar Sonawane
+140,"AWS, JavaScript, Machine Learning, DevOps, Solution Architecture",Rajeev Sharma
+141,"ETL, AWS, Python, Amazon Redshift, MongoDB",Aditi Pradhan
+142,"Java, Data Structures, Algorithms, Multithreading",Naveen Kumar
+143,Node.js,Omkar Sonawane
+139,"Java, React.js",Omkar Sonawane
+139,"Java, React.js",Omkar Sonawane
+13,Product Management,Omkar Sonawane
+144,Program Management,Omkar Sonawane
+13,Product Management,Omkar Sonawane
+144,Program Management,Omkar Sonawane
+145,"Product Management, Wireframing, Figma, Loyalty Programs, Credit Cards",Akshatha Hydri
+146,"Python, ETL, AWS, SQL, MongoDB",Aditi Pradhan
+142,"Java, Data Structures, Algorithms, Multithreading",Naveen Kumar
+147,"Python, Azure, Spark, Azure Cosmos DB, Azure SQL Database",Meher Kaur
+148,Java,Omkar Sonawane
+149,"Recruitment, IT Recruitment",Vinoo Raaz
+150,".NET, .NET Compact Framework, Azure, ASP.NET",Naveen Kumar
+13,Product Management,Naveen Kumar
+151,"Python, Django, Data Structures, Algorithms",Naveen Kumar
+152,"Java, Spring Boot, AWS, Angular, SQL",Nayaab Khan
+153,"SQL, Power BI, Python, Tableau, Stakeholder Management",Niharika M
+148,Java,Omkar Sonawane
+154,React.js,Omkar Sonawane
+155,"Recruitment, Grievance Management, Performance Management, HR Policies, HR Analytics",Rayal Rajan
+156,"Ruby, JavaScript, Ruby on Rails, Angular, React.js",Meher Kaur
+157,"Automation Testing, .NET, API Testing, REST Assured",Sakshi Baliyan
+158,"Node.js, Data Structures, Algorithms",Naveen Kumar
+48,"Java, Spring",Arun Kumar
+159,"Node.js, JavaScript, NoSQL, AWS, SQL",Prakhar Mehrotra
+160,"Employee Engagement, Compliance Management",Kriti Agrawal
+161,"JavaScript, jQuery, Node.js, React.js",Hari Kumar Balan
+162,"Financial Reporting, Profit and Loss Management, Trade Finance, Treasury Operations, Corporate Banking",Kusha Bedre
+163,"React.js, Redux, CSS, HTML, JavaScript",Sukant Kumar
+164,"Kotlin, Android, Agile, UX Design",Ramadevi Venkata
+165,"Java, Automation Testing",Omkar Sonawane
+166,Customer Service,Mohit Kumar
+167,"Build Tools, CI - CD, Linux, Ansible, AWS, Docker, Jenkins, Kubernetes",Pramith Kumar
+168,"Customer Interaction, Customer Relationship, Customer Service",Aaliya Baxamusa
+169,"Golang, C++, Containers, Kubernetes, Data Structures",Nayaab Khan
+170,"Java, Spring, AWS, Algorithms, Data Structures",Rajni Mishra
+171,"SQL, ETL, PostgreSQL",Niharika M
+172,"Business Development, Direct Sales, Sales",Khushboo Banode
+162,"Financial Reporting, Profit and Loss Management, Trade Finance, Treasury Operations, Corporate Banking",Kusha Bedre
+163,"React.js, Redux, CSS, HTML, JavaScript",Sukant Kumar
+173,"SQL, Power BI, Data Analysis, Data Collection, Tableau",Blessy Fernandes
+165,"Java, Automation Testing",Omkar Sonawane
+174,"SAP SuccessFactors, ERP Implementation, Human Capital Management",Radhika Mathur
+175,"Content Writing, SEO, English Content",Navdeep Kaur
+171,"SQL, ETL, PostgreSQL",Niharika M
+176,"Talent Management, Recruitment, HR Policies, Employee Benefits",Garnet Chaves
+177,"Business Development, Corporate Sales, Sales, Telecalling",Pallavi Kakde
+178,"React.js, UX Design, Architecture, JavaScript, Vue.js",Suresh Kumar
+179,"Java, JavaScript, Angular, React.js, Spring",Daphne Samuel
+180,"Python, Django",Daphne Samuel
+78,Sales,Swati Kumari
+181,"SQL, Python",Riya Prasad
+174,"SAP SuccessFactors, ERP Implementation, Human Capital Management",Radhika Mathur
+182,"Microsoft Dynamics, Microsoft Power Apps, Power Automate",Usha Rani
+183,"AWS, AWS Lambda, Python, Amazon Redshift, Tableau",Meher Kaur
+176,"Talent Management, Recruitment, HR Policies, Employee Benefits",Garnet Chaves
+184,"React.js, Node.js, TypeScript, Python, MongoDB",Sanjay Sinha
+185,"SQL, Python, Data Analysis, Tableau, Microsoft Excel",Vaibhav Singh
+186,"Java, Angular, Azure, Behavior Driven Development, Test Driven Development",Reena Fernandes
+187,Apache Server,Subhra Mukherjee
+180,"Python, Django",Daphne Samuel
+188,"JavaScript, Node.js, React.js",Tehzun Vasanwala
+189,"PHP, CodeIgniter, Laravel",Tehzun Vasanwala
+190,SEO,Tehzun Vasanwala
+191,"Sales, Business Development, Direct Sales, Agriculture, Agro Commodities",Consult Bae
+192,"Manufacturing, Analytical Chemistry",A P T
+193,"SEO, SEM, SEMrush, Ahrefs, Digital Marketing",Consult Bae
+194,"Business Development, Direct Sales, Sales, Telecalling",Viswanadh Panduri
+195,"Java, Python, DevOps",Vaishaly K
+196,"Kubernetes, DevOps, AWS, Azure, CI - CD",Consult Bae
+197,"Java, Kotlin, Android",Nisha Sharma
+198,"Python, pandas",Nisha Sharma
+199,Content Marketing,Steinbeis India
+200,"Automation Testing, Selenium, Cucumber, JMeter, Jira",Vishali Vashnavi
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+208,"Embedded Systems, ARM Processor, Embedded C",Shalabh Khare
+209,"Java, AWS, Angular",Yoganandham R
+210,"Java, React.js, Spring, Microservices, Data Structures",Lithin Raj
+211,Anaplan,Sindhu Chakraborty Ramachandran
+212,"Scrum, Agile",Jai Nayak
+213,"DevOps, AWS, Python, CI - CD, Jenkins",Shivam Bhardwaj
+214,"Selenium, Quality Assurance, Automation Testing, SDET, Appium",Shivam Bhardwaj
+215,"Digital Marketing, Google Ads, SEO, SEM, Social Media Marketing",Vinay Garg
+216,"NLP, Python, R",Anagha R
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+217,"Hybrid Apps, Flutter",Pratik Parekh
+218,"Java, Spring Boot, Microservices",Yoganandham R
+219,Golang,Saurav Mehta
+220,"Python, Django, Flask, FastAPI, MongoDB",Shivam Bhardwaj
+221,"Vue.js, JavaScript, HTML, CSS, Angular",Shivam Bhardwaj
+222,"HTML, AWS, TypeScript, JavaScript, Node.js",Rachana C S
+223,"Python, Azure Data Lake, Azure Data Factory, Databricks",Sindhu Chakraborty Ramachandran
+224,"React.js, Microservices, Spring Boot, Java",Gopikrishnan Kg
+225,"Microservices, Spring Boot, React.js, Java",Gopikrishnan Kg
+226,"Business Development, Sales",Saranya B M
+208,"Embedded Systems, ARM Processor, Embedded C",Shalabh Khare
+209,"Java, AWS, Angular",Yoganandham R
+210,"Java, React.js, Spring, Microservices, Data Structures",Lithin Raj
+211,Anaplan,Sindhu Chakraborty Ramachandran
+212,"Scrum, Agile",Jai Nayak
+213,"DevOps, AWS, Python, CI - CD, Jenkins",Shivam Bhardwaj
+214,"Selenium, Quality Assurance, Automation Testing, SDET, Appium",Shivam Bhardwaj
+215,"Digital Marketing, Google Ads, SEO, SEM, Social Media Marketing",Vinay Garg
+216,"NLP, Python, R",Anagha R
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+227,"Google Ads, SEM",Silita Simantika
+228,Azure,Sindhu Chakraborty Ramachandran
+229,"HTML, CSS, Amazon EC2, Elasticsearch, JavaScript",Md Naveed
+230,"Node.js, Express.js",Reema Chorghe
+231,"Direct Sales, Sales",Josphine Veronika
+8,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",Pranav M Sreedharan
+232,"Business Analysis, Project Management, Agile",Ravi Dubey
+233,"Field Work, Direct Sales, Sales, Customer Relationship",Preethy Balamurugan
+234,"Java, Hibernate, Spring",Asha
+217,"Hybrid Apps, Flutter",Pratik Parekh
+218,"Java, Spring Boot, Microservices",Yoganandham R
+219,Golang,Saurav Mehta
+220,"Python, Django, Flask, FastAPI, MongoDB",Shivam Bhardwaj
+221,"Vue.js, JavaScript, HTML, CSS, Angular",Shivam Bhardwaj
+222,"HTML, AWS, TypeScript, JavaScript, Node.js",Rachana C S
+223,"Python, Azure Data Lake, Azure Data Factory, Databricks",Sindhu Chakraborty Ramachandran
+224,"React.js, Microservices, Spring Boot, Java",Gopikrishnan Kg
+225,"Microservices, Spring Boot, React.js, Java",Gopikrishnan Kg
+226,"Business Development, Sales",Saranya B M
+208,"Embedded Systems, ARM Processor, Embedded C",Shalabh Khare
+209,"Java, AWS, Angular",Yoganandham R
+210,"Java, React.js, Spring, Microservices, Data Structures",Lithin Raj
+211,Anaplan,Sindhu Chakraborty Ramachandran
+212,"Scrum, Agile",Jai Nayak
+213,"DevOps, AWS, Python, CI - CD, Jenkins",Shivam Bhardwaj
+214,"Selenium, Quality Assurance, Automation Testing, SDET, Appium",Shivam Bhardwaj
+215,"Digital Marketing, Google Ads, SEO, SEM, Social Media Marketing",Vinay Garg
+216,"NLP, Python, R",Anagha R
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+235,"React.js, JavaScript, TypeScript, HTML, CSS",Shoyeeb Ahamed Magami
+236,"JavaScript, React.js, Angular, Java",Khushboo Kothari
+237,"ERP Implementation, Infor LN ERP, Sales, Procurement, Business Process Improvement",Navaneethu Navani
+168,"Customer Interaction, Customer Relationship, Customer Service",Swati S Bhardwaj
+238,"JavaScript, React.js, API Testing",Palak Parashar
+239,"Technical Writing, Microsoft Office, FrameMaker, Quality Assurance, Organizing",Anupama P Manoj
+234,"Java, Hibernate, Spring",Shreya N
+240,"Java, MySQL, Multithreading, Spring, Docker",Harshitha S
+227,"Google Ads, SEM",Silita Simantika
+228,Azure,Sindhu Chakraborty Ramachandran
+229,"HTML, CSS, Amazon EC2, Elasticsearch, JavaScript",Md Naveed
+230,"Node.js, Express.js",Reema Chorghe
+231,"Direct Sales, Sales",Josphine Veronika
+8,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",Pranav M Sreedharan
+232,"Business Analysis, Project Management, Agile",Ravi Dubey
+144,Program Management,Misha Yadav
+233,"Field Work, Direct Sales, Sales, Customer Relationship",Preethy Balamurugan
+234,"Java, Hibernate, Spring",Asha
+217,"Hybrid Apps, Flutter",Pratik Parekh
+220,"Python, Django, Flask, FastAPI, MongoDB",Shivam Bhardwaj
+221,"Vue.js, JavaScript, HTML, CSS, Angular",Shivam Bhardwaj
+222,"HTML, AWS, TypeScript, JavaScript, Node.js",Rachana C S
+223,"Python, Azure Data Lake, Azure Data Factory, Databricks",Sindhu Chakraborty Ramachandran
+224,"React.js, Microservices, Spring Boot, Java",Gopikrishnan Kg
+225,"Microservices, Spring Boot, React.js, Java",Gopikrishnan Kg
+226,"Business Development, Sales",Saranya B M
+208,"Embedded Systems, ARM Processor, Embedded C",Shalabh Khare
+209,"Java, AWS, Angular",Yoganandham R
+210,"Java, React.js, Spring, Microservices, Data Structures",Lithin Raj
+211,Anaplan,Sindhu Chakraborty Ramachandran
+212,"Scrum, Agile",Jai Nayak
+213,"DevOps, AWS, Python, CI - CD, Jenkins",Shivam Bhardwaj
+214,"Selenium, Quality Assurance, Automation Testing, SDET, Appium",Shivam Bhardwaj
+215,"Digital Marketing, Google Ads, SEO, SEM, Social Media Marketing",Vinay Garg
+216,"NLP, Python, R",Anagha R
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+241,"Java, Spring, Data Structures, Algorithms, Microservices",Divya Sharma
+242,"Computer Vision, Patents, Neural Networks, NLP, Machine Learning",Khushboo Kothari
+243,"Accounting, Tally, Taxation, Corporate Tax, Finance",Shilpi Lalotra
+244,"Content Marketing, Content Writing, English Content",Srikanth Chunduri
+245,"Project Management, MongoDB, Node.js, Express.js, Angular",Ankita Sharma
+246,"JavaScript, Python, React.js",Pushpalatha Kalimuthu
+247,".NET, ASP.NET, Angular, C#, Kubernetes, Microservices",Srijani Majumdar
+248,"Java, Spring Boot, AWS, SQL, Node.js",Manisha Amin
+249,"SDET, Python",Mahima
+250,"ETL, Python",Gayathri Gowda
+235,"React.js, JavaScript, TypeScript, HTML, CSS",Shoyeeb Ahamed Magami
+236,"JavaScript, React.js, Angular, Java",Khushboo Kothari
+237,"ERP Implementation, Infor LN ERP, Sales, Procurement, Business Process Improvement",Navaneethu Navani
+168,"Customer Interaction, Customer Relationship, Customer Service",Swati S Bhardwaj
+238,"JavaScript, React.js, API Testing",Palak Parashar
+239,"Technical Writing, Microsoft Office, FrameMaker, Quality Assurance, Organizing",Anupama P Manoj
+234,"Java, Hibernate, Spring",Shreya N
+240,"Java, MySQL, Multithreading, Spring, Docker",Harshitha S
+227,"Google Ads, SEM",Silita Simantika
+228,Azure,Sindhu Chakraborty Ramachandran
+229,"HTML, CSS, Amazon EC2, Elasticsearch, JavaScript",Md Naveed
+230,"Node.js, Express.js",Reema Chorghe
+231,"Direct Sales, Sales",Josphine Veronika
+8,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",Pranav M Sreedharan
+232,"Business Analysis, Project Management, Agile",Ravi Dubey
+144,Program Management,Misha Yadav
+233,"Field Work, Direct Sales, Sales, Customer Relationship",Preethy Balamurugan
+234,"Java, Hibernate, Spring",Asha
+217,"Hybrid Apps, Flutter",Pratik Parekh
+218,"Java, Spring Boot, Microservices",Yoganandham R
+219,Golang,Saurav Mehta
+220,"Python, Django, Flask, FastAPI, MongoDB",Shivam Bhardwaj
+221,"Vue.js, JavaScript, HTML, CSS, Angular",Shivam Bhardwaj
+222,"HTML, AWS, TypeScript, JavaScript, Node.js",Rachana C S
+223,"Python, Azure Data Lake, Azure Data Factory, Databricks",Sindhu Chakraborty Ramachandran
+224,"React.js, Microservices, Spring Boot, Java",Gopikrishnan Kg
+225,"Microservices, Spring Boot, React.js, Java",Gopikrishnan Kg
+226,"Business Development, Sales",Saranya B M
+208,"Embedded Systems, ARM Processor, Embedded C",Shalabh Khare
+209,"Java, AWS, Angular",Yoganandham R
+210,"Java, React.js, Spring, Microservices, Data Structures",Lithin Raj
+211,Anaplan,Sindhu Chakraborty Ramachandran
+212,"Scrum, Agile",Jai Nayak
+213,"DevOps, AWS, Python, CI - CD, Jenkins",Shivam Bhardwaj
+214,"Selenium, Quality Assurance, Automation Testing, SDET, Appium",Shivam Bhardwaj
+215,"Digital Marketing, Google Ads, SEO, SEM, Social Media Marketing",Vinay Garg
+216,"NLP, Python, R",Anagha R
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+241,"Java, Spring, Data Structures, Algorithms, Microservices",Divya Sharma
+242,"Computer Vision, Patents, Neural Networks, NLP, Machine Learning",Khushboo Kothari
+243,"Accounting, Tally, Taxation, Corporate Tax, Finance",Shilpi Lalotra
+251,"Technical Support, Technical Writing",Rayal Rajan
+252,"Sales, Business Development, Transcription, CRM, Dubbing",Monisha R Shetty
+253,".NET, C#, SQL Server, ASP.NET",Srishti Rai
+254,"STA, Floor Planning",Deepika Reddy
+255,".NET, Golang, Java, PHP, Python, C#",Roshna R
+256,C++,Amit Kumar
+244,"Content Marketing, Content Writing, English Content",Srikanth Chunduri
+245,"Project Management, MongoDB, Node.js, Express.js, Angular",Ankita Sharma
+246,"JavaScript, Python, React.js",Pushpalatha Kalimuthu
+247,".NET, ASP.NET, Angular, C#, Kubernetes, Microservices",Srijani Majumdar
+248,"Java, Spring Boot, AWS, SQL, Node.js",Manisha Amin
+249,"SDET, Python",Mahima
+250,"ETL, Python",Gayathri Gowda
+235,"React.js, JavaScript, TypeScript, HTML, CSS",Shoyeeb Ahamed Magami
+236,"JavaScript, React.js, Angular, Java",Khushboo Kothari
+237,"ERP Implementation, Infor LN ERP, Sales, Procurement, Business Process Improvement",Navaneethu Navani
+168,"Customer Interaction, Customer Relationship, Customer Service",Swati S Bhardwaj
+238,"JavaScript, React.js, API Testing",Palak Parashar
+239,"Technical Writing, Microsoft Office, FrameMaker, Quality Assurance, Organizing",Anupama P Manoj
+234,"Java, Hibernate, Spring",Shreya N
+240,"Java, MySQL, Multithreading, Spring, Docker",Harshitha S
+227,"Google Ads, SEM",Silita Simantika
+228,Azure,Sindhu Chakraborty Ramachandran
+229,"HTML, CSS, Amazon EC2, Elasticsearch, JavaScript",Md Naveed
+230,"Node.js, Express.js",Reema Chorghe
+231,"Direct Sales, Sales",Josphine Veronika
+8,"Customer Interaction, Customer Relationship, Customer Service, Key Account Management",Pranav M Sreedharan
+232,"Business Analysis, Project Management, Agile",Ravi Dubey
+144,Program Management,Misha Yadav
+233,"Field Work, Direct Sales, Sales, Customer Relationship",Preethy Balamurugan
+234,"Java, Hibernate, Spring",Asha
+217,"Hybrid Apps, Flutter",Pratik Parekh
+218,"Java, Spring Boot, Microservices",Yoganandham R
+219,Golang,Saurav Mehta
+220,"Python, Django, Flask, FastAPI, MongoDB",Shivam Bhardwaj
+221,"Vue.js, JavaScript, HTML, CSS, Angular",Shivam Bhardwaj
+222,"HTML, AWS, TypeScript, JavaScript, Node.js",Rachana C S
+223,"Python, Azure Data Lake, Azure Data Factory, Databricks",Sindhu Chakraborty Ramachandran
+224,"React.js, Microservices, Spring Boot, Java",Gopikrishnan Kg
+225,"Microservices, Spring Boot, React.js, Java",Gopikrishnan Kg
+226,"Business Development, Sales",Saranya B M
+208,"Embedded Systems, ARM Processor, Embedded C",Shalabh Khare
+209,"Java, AWS, Angular",Yoganandham R
+210,"Java, React.js, Spring, Microservices, Data Structures",Lithin Raj
+211,Anaplan,Sindhu Chakraborty Ramachandran
+212,"Scrum, Agile",Jai Nayak
+213,"DevOps, AWS, Python, CI - CD, Jenkins",Shivam Bhardwaj
+214,"Selenium, Quality Assurance, Automation Testing, SDET, Appium",Shivam Bhardwaj
+215,"Digital Marketing, Google Ads, SEO, SEM, Social Media Marketing",Vinay Garg
+216,"NLP, Python, R",Anagha R
+201,"Business Analysis, SQL",Omkar Sonawane
+202,"Performance Testing, Python, JMeter, LoadRunner",Surya S
+203,"PHP, CodeIgniter, Laravel, Wordpress",Nitisha Rana
+195,"Java, Python, DevOps",Vaishaly K
+204,"Sales, Business Development, Direct Sales, Insurance Broking, Insurance Operations",Consult Bae
+205,"Mutual Funds, ISA, Recruitment, Employee Induction, Distributor Management",Shubha Naik
+206,"Recruitment, Payroll Management, Employee Benefits, Employee Engagement, Employee Induction",Paankhuri Aggarwal
+148,Java,Omkar Sonawane
+207,Verilog,Sindhu Chakraborty Ramachandran
+13,Product Management,Sindhu Raj
+257,"C, Linux, Data Structures, IPC",Vaidehi Sarkar
+258,"CSS, HTML, JavaScript, Ember.js, jQuery, React.js, Vue.js",Ananda Pandey
+259,"Python, SQL, Risk Management, Risk Assessment, Banking Operations",Aneesha Chandrabhanu
+260,"DevOps, Java, Python, AWS, Azure",Vaishaly K
+261,"Java, DevOps, Python, AWS, Azure",Vaishaly K
+262,"Java, Python, .NET, Data Structures, Algorithms",Shruti Aggarwal
+263,IT Infrastructure,Omkar Sonawane
+264,Android,Chaitra
+265,"Python, CI - CD, Java, MongoDB, AWS",Ruchi Gupta
+266,"IBM DataStage, ETL, Informatica, Teradata, Azure",Pinnacle Consultz
+267,"Android, Flutter, Dart, Java",Monu Sharma
+268,"Agile, Project Management, Scrum, IT Project Management",Deepak Gupta
+269,"Product Management, Scrum, Agile",Nikita Jaiswal
+270,"React.js, JavaScript, REST Assured",Robin Raju
+271,"Java, JavaScript, Python, Angular, jQuery, React.js",Kabi Pramoth
+257,"C, Linux, Data Structures, IPC",Vaidehi Sarkar
+258,"CSS, HTML, JavaScript, Ember.js, jQuery, React.js, Vue.js",Ananda Pandey
+259,"Python, SQL, Risk Management, Risk Assessment, Banking Operations",Aneesha Chandrabhanu
+260,"DevOps, Java, Python, AWS, Azure",Vaishaly K
+261,"Java, DevOps, Python, AWS, Azure",Vaishaly K
+262,"Java, Python, .NET, Data Structures, Algorithms",Shruti Aggarwal
+263,IT Infrastructure,Omkar Sonawane
+264,Android,Chaitra
+230,"Node.js, Express.js",Diksha Bahuguna
+272,"Docker, Kubernetes, CI - CD, MongoDB, Python",Ankit Sinha
+273,"Spark, Python, Java, Hadoop, Scala",Niharika Sharma
+274,"Django, React.js, Python, PostgreSQL, Elasticsearch",Pardeep Singh
+275,"Automation Testing, Mobile Apps Testing, New Relic, Dynatrace",Nikita Sah
+276,"Corporate Sales, Sales",Awantik Das
+277,"Linux, RTOS, C, Kernel Development, Storage",Varsha Gaitonde
+278,"Employee Benefits, Employee Engagement, Learning and Development, Performance Management",Mayank Singh
+279,"Microservices, AWS, Node.js, Java",Khader Itagi
+280,"Private Banking, Sales, Accounting, Finance, Branch Management",Naveen Taalanki
+281,"Customer Service, Python, AWS, Java, API Testing",Shammi Kapoor
+282,"IBM DataStage, Azure, Teradata, BTEQ, ETL",Pinnacle Consultz
+283,"Computer Vision, Machine Learning, NLP, OpenCV, PyTorch, TensorFlow",Nagaraj Kp
+267,"Android, Flutter, Dart, Java",Monu Sharma
+268,"Agile, Project Management, Scrum, IT Project Management",Deepak Gupta
+269,"Product Management, Scrum, Agile",Nikita Jaiswal
+270,"React.js, JavaScript, REST Assured",Robin Raju
+271,"Java, JavaScript, Python, Angular, jQuery, React.js",Kabi Pramoth
+257,"C, Linux, Data Structures, IPC",Vaidehi Sarkar
+258,"CSS, HTML, JavaScript, Ember.js, jQuery, React.js, Vue.js",Ananda Pandey
+259,"Python, SQL, Risk Management, Risk Assessment, Banking Operations",Aneesha Chandrabhanu
+260,"DevOps, Java, Python, AWS, Azure",Vaishaly K
+261,"Java, DevOps, Python, AWS, Azure",Vaishaly K
+262,"Java, Python, .NET, Data Structures, Algorithms",Shruti Aggarwal
+263,IT Infrastructure,Omkar Sonawane
+264,Android,Chaitra
+230,"Node.js, Express.js",Diksha Bahuguna
+272,"Docker, Kubernetes, CI - CD, MongoDB, Python",Ankit Sinha
+273,"Spark, Python, Java, Hadoop, Scala",Niharika Sharma
+265,"Python, CI - CD, Java, MongoDB, AWS",Ruchi Gupta
+266,"IBM DataStage, ETL, Informatica, Teradata, Azure",Pinnacle Consultz
+284,"Java, Distributed Systems, Data Structures, Algorithms, Engineering Management",Khushboo Kothari
+285,"Data Streaming, Data Warehousing, ETL, Amazon Redshift, AWS Glue, Informatica, Kafka, Snowflake",Anjali Singh
+218,"Java, Spring Boot, Microservices",Palak Parashar
+286,"SAP FICO, SAP ERP, Taxation, Finance, SAP Module Pool",Md Naveed
+287,"Sales, Customer Service, Media Relations, CRM, Dubbing",Priyanka U
+288,"Sales, Telecalling, Transcription, Marketing, Dubbing",Priyanka U
+289,"AWS, Kubernetes, CI - CD, Jenkins, Terraform",Udeshna Boruah Kalita
+274,"Django, React.js, Python, PostgreSQL, Elasticsearch",Pardeep Singh
+275,"Automation Testing, Mobile Apps Testing, New Relic, Dynatrace",Nikita Sah
+276,"Corporate Sales, Sales",Awantik Das
+277,"Linux, RTOS, C, Kernel Development, Storage",Varsha Gaitonde
+278,"Employee Benefits, Employee Engagement, Learning and Development, Performance Management",Mayank Singh
+279,"Microservices, AWS, Node.js, Java",Khader Itagi
+280,"Private Banking, Sales, Accounting, Finance, Branch Management",Naveen Taalanki
+281,"Customer Service, Python, AWS, Java, API Testing",Shammi Kapoor
+282,"IBM DataStage, Azure, Teradata, BTEQ, ETL",Pinnacle Consultz
+283,"Computer Vision, Machine Learning, NLP, OpenCV, PyTorch, TensorFlow",Nagaraj Kp
+267,"Android, Flutter, Dart, Java",Monu Sharma
+268,"Agile, Project Management, Scrum, IT Project Management",Deepak Gupta
+269,"Product Management, Scrum, Agile",Nikita Jaiswal
+270,"React.js, JavaScript, REST Assured",Robin Raju
+271,"Java, JavaScript, Python, Angular, jQuery, React.js",Kabi Pramoth
+257,"C, Linux, Data Structures, IPC",Vaidehi Sarkar
+258,"CSS, HTML, JavaScript, Ember.js, jQuery, React.js, Vue.js",Ananda Pandey
+259,"Python, SQL, Risk Management, Risk Assessment, Banking Operations",Aneesha Chandrabhanu
+260,"DevOps, Java, Python, AWS, Azure",Vaishaly K
+261,"Java, DevOps, Python, AWS, Azure",Vaishaly K
+262,"Java, Python, .NET, Data Structures, Algorithms",Shruti Aggarwal
+263,IT Infrastructure,Omkar Sonawane
+264,Android,Chaitra
+230,"Node.js, Express.js",Diksha Bahuguna
+272,"Docker, Kubernetes, CI - CD, MongoDB, Python",Ankit Sinha
+273,"Spark, Python, Java, Hadoop, Scala",Niharika Sharma
+265,"Python, CI - CD, Java, MongoDB, AWS",Ruchi Gupta
+266,"IBM DataStage, ETL, Informatica, Teradata, Azure",Pinnacle Consultz
+290,"C++, Golang, JavaScript, Angular, Node.js, React.js",Felwin Rodrigues
+291,"Angular, Node.js, MariaDB, MongoDB, HTML",Archana Manne
+292,"Big Data, Scala, Spark Streaming, Python, ETL",Vajrala Yoga Yaswanth
+143,Node.js,Anoushka Goswami
+293,React Native,Anoushka Goswami
+294,"IBM DataStage, Azure, Teradata, SQL, ETL",Pinnacle Consultz
+295,"IBM DataStage, BTEQ, Teradata, Azure, SQL",Pinnacle Consultz
+296,"IBM DataStage, Azure, SQL, BTEQ, ETL",Pinnacle Consultz
+297,"IBM DataStage, Azure, SQL, BTEQ, Teradata",Pinnacle Consultz
+78,Sales,Ashwini N
+298,"C#, .NET, Microservices, Docker, Git",Pooja Angadi
+299,"AWS, Hadoop",Taraprasad Battha Hehimhis
+300,"Content Marketing, Content Writing",Nupur Mehra
+301,"Java, Microservices, Spring Boot",Rayal Rajan
+188,"JavaScript, Node.js, React.js",Shivani Thakur
+302,"IBM DataStage, Azure, Teradata, SQL, BTEQ",Pinnacle Consultz
+303,"IBM DataStage, Teradata, BTEQ, SQL, Informatica",Pinnacle Consultz
+304,"IBM DataStage, SQL, ETL, Oracle Database, Data Modelling",Pinnacle Consultz
+305,"IBM DataStage, SQL, ETL, Data Modelling, Oracle Database",Pinnacle Consultz
+306,"Computer Vision, Machine Learning, NLP, PyTorch, Scikit-learn, TensorFlow",Soumya Kerkar
+290,"C++, Golang, JavaScript, Angular, Node.js, React.js",Felwin Rodrigues
+291,"Angular, Node.js, MariaDB, MongoDB, HTML",Archana Manne
+292,"Big Data, Scala, Spark Streaming, Python, ETL",Vajrala Yoga Yaswanth
+143,Node.js,Anoushka Goswami
+293,React Native,Anoushka Goswami
+294,"IBM DataStage, Azure, Teradata, SQL, ETL",Pinnacle Consultz
+295,"IBM DataStage, BTEQ, Teradata, Azure, SQL",Pinnacle Consultz
+296,"IBM DataStage, Azure, SQL, BTEQ, ETL",Pinnacle Consultz
+297,"IBM DataStage, Azure, SQL, BTEQ, Teradata",Pinnacle Consultz
+78,Sales,Ashwini N
+307,"Google Tag Manager, Google Analytics, Tableau, SDTM, BigQuery",John Anthony Naveen
+308,"Golang, Java, Python, Django, Hibernate",Ananda Pandey
+309,Content Writing,Kalpana Choudhary
+310,"Program Management, AWS, Performance Testing, JMeter, LoadRunner",Avinash Ks
+311,"Microsoft SCCM, ITIL, Active Directory",Rhenuma Bhuktiar
+168,"Customer Interaction, Customer Relationship, Customer Service",Mohit Kumar
+312,"Manual Testing, Performance Testing, JMeter",Niharika Naik
+305,"IBM DataStage, SQL, ETL, Data Modelling, Oracle Database",Pinnacle Consultz
+313,"Ruby on Rails, Ruby",Shakti Jangale
+314,"Node.js, Express.js, MySQL, AWS, Azure",Ankita Hiremath
+315,"Zendesk, Kotlin, Android",Anjali Nair
+316,"iOS, Zendesk",Anjali Nair
+317,"Java, Angular, Agile, AWS, Azure",Reena Fernandes
+218,"Java, Spring Boot, Microservices",Jayalakshmi N
+318,"React.js, SOAP, Git, CI - CD",Amisha Joshi
+319,"Ember.js, React.js",Swantana Sahoo
+320,"CSS, HTML, JavaScript, Angular, React.js, Vue.js",Priyanka Ghodmare
+321,".NET, Azure, SQL, C#, Agile",Jayalakshmi N
+322,".NET, Java, ASP.NET, C#, J2EE",Chetana
+226,"Business Development, Sales",Mrunal Kankal
+323,"SAP FICO, SAP Ariba",Sumit Arya
+324,"Node.js, AWS, Express.js",Kriti Agrawal
+325,"SQL, C#, .NET, Docker, Kubernetes",Sakshi Baliyan
+326,".NET, C#, SQL, Docker, Git",Sakshi Baliyan
+327,"JMeter, Performance Testing, Python, LoadRunner",Fredina Graceline
+328,"Angular, JavaScript",Ruchika Manchanda
+329,"Java, AWS, Microservices, Angular, Spring Boot",Sanskruti Zende
+330,"Automation Testing, Cucumber, Appium, JavaScript, TypeScript",Vijay L
+331,"Java, Data Structures, Hibernate, Spring",Saranya R
+332,"Java, Hibernate, J2EE, Spring",Tony J Tom
+333,"Angular, HTML, CSS, RDBMS, Node.js",Nirosha Yalawar
+334,"Java, Scala, Hibernate, J2EE, Spring, Struts",Gargi Geetanjali Singh
+335,"PHP, Laravel",Nisha Rawat
+336,"Project Management, Java, Python, Cassandra, IT Project Management",Arpita Dey
+337,"CI - CD, Linux, AWS, Google Cloud, Jenkins, Nagios",Divyangi Nandkeolyar
+338,"Business Development, Sales, Direct Sales",Momeena A
+338,"Business Development, Sales, Direct Sales",Momeena A
+339,"Business Development, Sales, Telecalling",Mansi Gupta
+340,"Power BI, SQL, ASP.NET",Udeshna Boruah Kalita
+341,"Java, Microservices, Spring Boot, React.js, Angular",Divya Saxena
+342,"Sales, Business Development, Direct Sales, Corporate Sales, Customer Service",Consult Bae
+343,"Android, Kotlin, Java, Android Jetpack, RxAndroid",Sonali Bavadhankar
+344,NestJS,Akshay Nawani
+172,"Business Development, Direct Sales, Sales",Momeena A
+345,"Technical Writing, Content Writing, Content Marketing, FrameMaker, RoboHelp",Bharat Chaudhary
+346,"Product Marketing, Marketing, Social Media Marketing, Brand Management",Mrinali Mahajan
+347,"Product Marketing, Content Writing, Brand Management, Social Media Marketing, Digital Marketing",Mrinali Mahajan
+348,"Java, Spring Boot, SQL, J2EE, Spring",Pritam Shaw
+349,"Java, AWS, AWS Lambda, Data Structures, Algorithms",Rajeswari K
+350,"Kafka, Data Streaming, SQL, Python, Google Cloud",Subhajit Purkait
+351,"Customer Relationship, Customer Interaction, Customer Service",Priyanka Patra
+78,Sales,Swathi H
+352,"ETL, Python, Spark, SQL, NoSQL",Arun Sreenivasan
+218,"Java, Spring Boot, Microservices",Amisha Joshi
+353,"Vue.js, HTML, CSS, Angular",Sanskruti Zende
+354,"C, C++, Golang, Java",Venkatesh V
+355,Engineering Management,Nitesh Rana
+356,"Business Development, Social Media Marketing, Digital Marketing, Marketing, Content Writing",Happy Kantesariya
+357,"Brand Management, Content Writing, Creative Direction, Social Media Marketing, Digital Marketing",Happy Kantesariya
+358,"Hybrid Apps, iOS, React Native",Lavanyaa P
+359,"Python, Machine Learning, NLP, Data Structures, Algorithms",Sridevi Viswanathan
+360,"Corporate Sales, International Sales, Sales",Neha Rikibe
+361,Asset Management,Omkar Sonawane
+362,"Python, MongoDB, FastAPI, Django, Elasticsearch",Sanskruti Zende
+363,"Selenium, Jenkins, Java, Appium, Python",Sanskruti Zende
+364,"Vue.js, HTML, CSS, JavaScript",Sanskruti Zende
+365,"Node.js, Microservices, PostgreSQL, AWS, CI - CD",Osama Khan
+366,"Business Development, Corporate Sales, Sales",Sana Kausar
+367,"Content Marketing, Digital Marketing, Google Ads, Social Media Marketing",Uloapp A New Wave Of Living
+368,"Java, Spring Boot, Angular, Node.js, MySQL",Sridevi Viswanathan
+369,"Elementor, Visual Composer, WooCommerce, PHP",Rohit Dutt
+370,"IT Governance, Embedded C, Embedded Systems",Mahesh Kumar
+371,"AWS, Azure, CI - CD, DevOps, Docker, Google Cloud, Kubernetes, Linux, Logging, Monitoring, Unix",Bhini Tenani
+372,"Linux, AWS, Docker, Kubernetes, AWS WAF",Radhika Sharma
+373,"Data Analysis, Data Streaming, Data Warehousing, ETL, NoSQL, Search, Amazon Redshift, Cassandra, Databricks, Elasticsearch, Hive, Kafka, MongoDB, Spark, SQL",Talent Acquisition Line
+374,"Procurement, Chemical Procurement, Negotiable Instruments, Chemical Analysis, Stakeholder Management",Rayal Rajan
+375,".NET, ASP.NET",Ashwin N
+376,"Android, Hybrid Apps, iOS, React Native",Archana Gupta
+148,Java,Blessy Fernandes
+377,Vue.js,Akshay Nawani
+378,"AWS, Angular, Java, Spring Boot, Node.js",Opportunity Rm
+379,"Azure, Angular, Node.js, Docker, Kubernetes",Opportunity Rm
+380,SQL,Ritika Gupta
+381,"Digital Marketing, Facebook Marketing, Social Media Marketing",Harshita Upreti
+382,"Engineering Management, Java, Microservices, AWS, JavaScript",Chandu Shree
+383,"Campus Recruitment, Non IT Recruitment, Recruitment",Mayank Singh
+384,"UX Design, Figma, Visual Design, Wireframing",Priya Arora
+385,"Oracle Database, Oracle GoldenGate, Oracle RAC",Clarita Fernandes
+386,"React.js, Node.js, Unit Testing, AWS, Azure",Yogini Bazaz
+387,"Campus Recruitment, IT Recruitment, Non IT Recruitment, Recruitment",Jasmin Sahu
+388,"Wordpress, PHP",Nisha Sharma
+389,"Customer Relationship, Customer Service",Clarita Fernandes
+390,Information Security,Clarita Fernandes
+391,Salesforce,Ritu Ranwa
+392,"Business Development, Corporate Sales, Direct Sales, Sales, Telecalling",Tuzar Baria
+390,Information Security,Omkar Sonawane
+393,Supply Chain Management,Omkar Sonawane
+394,Blue Yonder,Omkar Sonawane
+395,"Java, AWS, SQL, HTML, Git",Ankita Yadav
+396,SAP MDG,Ramya T S
+397,"Embedded Systems, RTOS, Modbus, IAR, Linux Device Drivers",Mahesh Kumar
+172,"Business Development, Direct Sales, Sales",Arushi Agarwal
+393,Supply Chain Management,Omkar Sonawane
+398,SSIS,Omkar Sonawane
+398,SSIS,Omkar Sonawane
+399,Inventory Management,Omkar Sonawane
+400,"Android, Django, ERPNext, JavaScript, Node.js, Python",Rajkumar V
+401,"React.js, JavaScript, CSS, HTML, Redux",Rayal Rajan
+402,"Business Development, Corporate Sales, Direct Sales, Sales",Thulasi D
+403,"JavaScript, Node.js, React.js, Angular, Git",Samrin Sayed
+404,"Presales, RFQ, RFI",Qikrecruit
+405,"Business Development, Corporate Sales, Direct Sales, International Sales, Sales",Rekha Singh
+406,"Automation Testing, Java",Omkar Sonawane
+399,Inventory Management,Omkar Sonawane
+393,Supply Chain Management,Omkar Sonawane
+95,.NET,Omkar Sonawane
+407,"Manual Testing, Automation Testing, API Testing, Android, Mobile Apps Testing",Asha L
+408,"5G, 4G, Android, LTE",Asha L
+409,"Accounting, Auditing, Finance, Taxation, GST, QuickBooks, Sales Tax, Tally, TDS",Thulasi D

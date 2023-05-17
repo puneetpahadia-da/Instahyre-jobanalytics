@@ -1,0 +1,735 @@
+job_id,company_id,location,designation,details_id
+249688,0,Gurgaon,Service Ops   (Drive),0
+252261,1,Work From Home,Marketing Intern   (Drive),1
+251583,2,Bangalore,Sr. Revenue Analyst   (Drive),2
+249768,3,Noida,Account Manager   (Drive),3
+250986,3,"Bangalore, Noida",Demand Generation Associate   (Drive),4
+249767,3,Work From Home,Process Trainers   (Drive),5
+249770,3,Noida,Sr. Operations Analyst   (Drive),6
+249702,4,Bangalore,Key Account Manager - Sales   (Drive),7
+251581,5,"Delhi, Hyderabad, Mumbai",Operations Intern   (Drive),8
+252023,6,Chennai,Customer Success Manager II   (Drive),9
+249688,0,Gurgaon,Service Ops   (Drive),0
+252261,1,Work From Home,Marketing Intern   (Drive),1
+251583,2,Bangalore,Sr. Revenue Analyst   (Drive),2
+249768,3,Noida,Account Manager   (Drive),3
+250986,3,"Bangalore, Noida",Demand Generation Associate   (Drive),4
+249767,3,Work From Home,Process Trainers   (Drive),5
+249770,3,Noida,Sr. Operations Analyst   (Drive),6
+249702,4,Bangalore,Key Account Manager - Sales   (Drive),7
+251581,5,"Delhi, Hyderabad, Mumbai",Operations Intern   (Drive),8
+252023,6,Chennai,Customer Success Manager II   (Drive),9
+249199,7,"Bangalore, Delhi, Mumbai",Fullstack Developer - Java   (Drive),10
+248784,8,"Bangalore, Kolkata",Performance Marketing   (Drive),11
+248018,9,"Chennai, Delhi",Zonal Head Sales   (Drive),12
+248890,10,Bangalore,DPM 1   (Drive),13
+248884,10,Mumbai,QA 1   (Drive),14
+248875,10,Mumbai,SDE 1   (Drive),15
+248956,11,Mumbai,Software Development Engineer - IV (iOS)   (Drive),16
+246411,12,Bangalore,Sales Development Representative   (Drive),17
+246406,12,Bangalore,Senior Machine Learning Engineer   (Drive),18
+244270,13,Hyderabad,Technical Writer   (Drive),19
+247885,14,Gurgaon,Customer Success Manager   (Drive),20
+244254,7,"Bangalore, Hyderabad, Mumbai",AEM Developer   (Drive),21
+245386,7,"Bangalore, Hyderabad, Mumbai",Pega Automation Testing   (Drive),22
+253147,15,Gurgaon,IT Recruiter,23
+243944,7,Bangalore,Automation Testing   (Drive),24
+244244,7,"Bangalore, Chennai, Mumbai",Azure Databricks Developer   (Drive),25
+243943,7,Mumbai,Azure DevOps Engineer   (Drive),26
+243942,7,Mumbai,Fullstack Developer - .NET Azure   (Drive),27
+244242,7,"Bangalore, Chennai, Mumbai",GCP Developer   (Drive),28
+244250,7,"Bangalore, Hyderabad, Mumbai",Informatica IICS Developer   (Drive),29
+244251,7,Mumbai,Oracle - UFT Testing   (Drive),30
+244247,7,"Bangalore, Hyderabad, Mumbai",PL / SQL Developer   (Drive),31
+244246,7,"Bangalore, Chennai, Mumbai",Snowflake Developer   (Drive),32
+253144,16,Bangalore,Data Scientist,33
+253119,17,Bangalore,Technical Lead Engineer,34
+253120,18,Bangalore,Branding /Creative Designers,35
+253141,19,Bangalore,Data Engineer,36
+253146,20,Pune,Tech Lead,37
+253143,21,Bangalore,Software Developer 2,38
+253130,22,Bangalore,Android Developer,39
+253122,23,Noida,Motion Graphic Designer,40
+253127,24,Chennai,Senior Engineer,41
+253125,24,Chennai,Software Developer,42
+253118,25,Mumbai,Marketing Manager,43
+253116,17,Work From Home,Golang Developer,44
+253119,17,Bangalore,Technical Lead Engineer,34
+253104,26,Hyderabad,Scrum Master II,45
+253109,27,Bangalore,Data Analyst,46
+253103,28,Bangalore,.Net Developer- Angular,47
+253112,29,Bangalore,Staff Engineer,48
+253106,30,Bangalore,ROR Developer,49
+253115,21,Bangalore,Node.Js Developer,50
+253107,31,Bangalore,Software Engineer,51
+253078,32,Bangalore,Data Engineer,52
+253090,33,Bangalore,Research Manager,53
+253102,34,Hyderabad,Team Analyst,54
+253092,35,Bangalore,Data Engineer,55
+253086,36,Bangalore,Data Engineer,56
+253101,37,Bangalore,Software Engineer (Business),57
+253094,38,Mumbai,Director of Graphics,58
+253080,39,Bangalore,Senior Product Manager,59
+253081,40,Work From Home,Network Engineer,60
+253096,41,Hyderabad,SAP CPQ Developer,61
+253074,32,Bangalore,AngularJS Developer,62
+253078,32,Bangalore,Data Engineer,52
+253066,42,Noida,Inbound Customer Service,63
+253061,9,Bangalore,Senior Manager - Credit Ops (Lending),64
+253062,43,Noida,Senior  Data Engineer,65
+253076,39,Bangalore,Project Director,66
+253065,39,Bangalore,Project Manager,67
+253055,44,Bangalore,Product Manager,68
+253049,45,Hyderabad,Software Developer- Reactjs,69
+253053,46,Gurgaon,Business Development Manager,70
+253047,47,Mumbai,Angular Developer,71
+253042,28,Bangalore,Tosca Consultant,72
+253050,42,Mumbai,Inside Customer Support,73
+253037,48,Bangalore,Lead QA Engineer - Performance Testing [T500 - 6691,74
+253039,49,Bangalore,Frontend Developer,75
+253052,50,Hyderabad,Software Engineer,76
+253027,51,Delhi,Digital Marketing,77
+253038,52,Bangalore,Business Development Associate,78
+253023,53,Work From Home,Frontend Developer,79
+253026,33,Bangalore,Engineering Manager - Frontend,80
+253002,54,Bangalore,Data Architect,81
+252999,55,Bangalore,Solution Architect,82
+253021,56,Bangalore,Fullstack Developer,83
+253013,57,Chennai,L2 - Production Support,84
+253016,57,Chennai,L2 - Production Support,85
+253004,57,Chennai,Technical Lead - .NET,86
+253009,58,Bangalore,Data Engineer,87
+253024,51,Delhi,Business Development Executive,88
+252990,59,Bangalore,Lead Software Development Engineer,89
+252986,60,Pune,Data Scientist,90
+252988,61,Pune,Full Stack Developer - React.js + Node.js,91
+252978,7,Bangalore,Technical Project Manager,92
+252992,62,Chennai,Product Manager,93
+252984,63,Work From Home,Senior UI Engineer,94
+252993,64,Work From Home,Software Backend Developer [T500 - 7371,95
+252987,64,Work From Home,Software Backend Developer [T500 - 7374,95
+252989,43,Noida,DevOps Engineer,96
+252966,65,Bangalore,DevOps Engineer - AWS,97
+252968,66,Hyderabad,Sr. Finance Manager,98
+252958,55,Bangalore,Team Lead,99
+252963,67,Work From Home,Customer Integration Engineer,100
+252962,68,Work From Home,Technical Project Manager,101
+252978,7,Bangalore,Technical Project Manager,92
+252976,64,Work From Home,Software Backend Developer [T500 - 7370,95
+252961,49,Bangalore,Backend Engineer,102
+252959,69,Bangalore,Go Developer,103
+252942,70,Delhi,Siebel Developer - EAI,104
+252943,71,Bangalore,Policy Advisor,105
+252954,72,Delhi,Principal Engineer Infra,106
+252948,73,Bangalore,Onboarding Specialist,107
+252952,17,Work From Home,Talend / Matillion Developer,108
+252957,74,Chennai,Java Developer,109
+252949,75,Delhi,Business Development Manager,110
+252951,76,Jaipur,Sales Executive,111
+252956,77,Mumbai,Senior IT Manager,112
+252946,77,Mumbai,Senior Manager - Accounts,113
+252932,78,Bangalore,Sr. Backend Developer,114
+252917,79,Bangalore,Product Manager,115
+252926,7,Bangalore,RPA Developer - Lead,116
+252918,29,Bangalore,SDE IV,48
+252920,43,Noida,Lead Data Engineer,117
+252921,43,Bangalore,Lead Data Engineer,118
+252925,43,Bangalore,Lead Data Engineer,119
+252937,80,Mumbai,Dot .NET Developer,120
+252939,80,Pune,Dot .NET Developer,121
+252922,81,Bangalore,Java Developer,122
+252913,82,Bangalore,Assistant Manager - Data Engineer,123
+252901,83,Bangalore,Order Allocation Manager,124
+252908,84,Bangalore,Senior Developer - Full Stack,125
+252907,84,Bangalore,Senior System Engineer - IT,126
+252896,85,Work From Home,Project Manager,127
+252909,28,Bangalore,Data Engineer With GCP,128
+252899,28,Bangalore,Senior Data Engineer - AWS,129
+252904,86,Mumbai,Sr. Product Designer,130
+252897,87,Work From Home,Lead DevOps Engineer,131
+252915,88,Bangalore,Product Marketing Specialist,132
+252895,25,Mumbai,Graphic Designer,133
+252880,89,Bangalore,Backend Engineer,134
+252884,90,Dubai,.NET Developer,135
+252888,90,Dubai,Frontend Developer,136
+252886,90,Dubai,Technical Project Manager,137
+252887,91,Gurgaon,Senior Data Manager,138
+252896,85,Work From Home,Project Manager,127
+252881,92,Bangalore,Senior Fullstack Engineer [T500 - 7377,139
+252882,68,Work From Home,Technical Architect,140
+252883,43,Noida,Lead Data Engineer,141
+252864,93,Bangalore,Backend Developer,142
+252865,59,Bangalore,Lead Backend Engineer - Node.js [T500 - 7388,143
+252870,59,Bangalore,Lead Fullstack Engineer [T500 - 7390,139
+252869,59,Bangalore,Senior Fullstack Engineer [T500 - 7389,139
+252873,92,Bangalore,Senior Technical Product Manager [T500 - 7380,13
+252879,92,Bangalore,Senior Technical Program Manager [T500 - 7383,144
+252875,92,Bangalore,Technical Product Manager [T500 - 7381,13
+252877,92,Bangalore,Technical Program Manger [T500 - 7382,144
+252872,94,Bangalore,Product Manager,145
+252876,43,Noida,Lead Data Engineer,146
+252864,93,Bangalore,Backend Developer,142
+252852,95,Pune,Big Data Engineer,147
+252857,59,Bangalore,Lead Backend Engineer - Java[T500 - 7387,148
+252859,96,Mumbai,Senior Recruiter,149
+252858,97,Hyderabad,.NET Developer,150
+252861,98,Bangalore,Product Manager,13
+252851,21,Bangalore,SDE2 - Backend,151
+252860,99,Mumbai,Technical Solution Architect,152
+252840,100,Noida,Business Analyst,153
+252847,59,Bangalore,Lead Backend Engineer - Java [T500 - 7386,148
+252838,59,Bangalore,Lead Frontend Engineer [T500 - 7385,154
+252846,101,Delhi,HRBP,155
+252839,102,Pune,ROR Developer,156
+252837,103,Gurgaon,Sr. Engineer 1,157
+252849,21,Bangalore,SDE2 - Backend,158
+252841,104,"Bangalore, Hyderabad, Work From Home",Backend Developer - Java,48
+252843,40,Hyderabad,SSE - BE - Node.js,159
+252842,105,Gurgaon,HR Generalist,160
+252831,106,"Bangalore, Work From Home",MERN Stack Developer,161
+252827,107,Work From Home,Senior Finance Manager,162
+252828,108,Gurgaon,React.js Developer,163
+252832,109,Bangalore,Android Developer,164
+252829,103,Gurgaon,Senior QA Engineer - Automation Testing [T500 - 7375,165
+252830,110,Gurgaon,Immigration Consultant,166
+252833,111,Bangalore,Senior DevOps Engineer,167
+252835,112,Bangalore,Customer Support Associate - Email Process,168
+252834,69,Bangalore,Go Developer,169
+252836,113,Bangalore,SDE2 - Java Developer,170
+252819,100,Work From Home,SQL Lead,171
+252823,114,Nagpur,Manager - Operations & Sales,172
+252827,107,Work From Home,Senior Finance Manager,162
+252828,108,Gurgaon,React.js Developer,163
+252825,56,Bangalore,Data Analyst,173
+252829,103,Gurgaon,Senior QA Engineer - Automation Testing [T500 - 7375,165
+252817,41,Bangalore,SAP Successfactor Consultant,174
+252820,115,Bangalore,Content Writer (Beauty & Personal Care Brand),175
+252819,100,Work From Home,SQL Lead,171
+252807,116,Delhi,Human Resources Manager,176
+252814,117,Bangalore,Business Development Associate,177
+252812,66,Hyderabad,UI Architect,178
+252811,118,"Bangalore, Hyderabad",Software Engineer - Java Fullstack,179
+252806,118,"Bangalore, Hyderabad",Software Enginer II - Python,180
+252815,119,Kolkata,Trainee Business Associate,78
+252810,120,Bangalore,Data Engineer,181
+252817,41,Bangalore,SAP Successfactor Consultant,174
+252809,121,Bangalore,Dynamics CRM Consultant,182
+252799,95,Pune,Big Data Engineer,183
+252807,116,Delhi,Human Resources Manager,176
+252805,122,Work From Home,Full Stack Engineer,184
+252802,123,Bangalore,Sr. Data Analyst,185
+252797,26,Hyderabad,Full Stack Developer III,186
+252796,124,Kolkata,Desktop Support Engineer,187
+252806,118,"Bangalore, Hyderabad",Software Enginer II - Python,180
+252804,125,Ahmedabad,Full Stack Developer (React.js & Node.js),188
+252800,125,Ahmedabad,PHP Developer,189
+252798,125,Ahmedabad,SEO Executive,190
+252785,126,Gurgaon,Ground Sales Executive - Lead,191
+252790,127,Hosur,Support Lead - MES IIOT & Analytics Solution,192
+252794,128,Gurgaon,Senior SEO Expert,193
+252786,129,Bangalore,Inside Sales Specialist,194
+252782,26,Hyderabad,IT Manager,195
+252793,86,Mumbai,DevOps Lead,196
+252789,22,Bangalore,Android Developer,197
+252784,22,Bangalore,Backend Developer,198
+252788,130,Hyderabad,Marketing Executive,199
+252791,131,Indore,Senior QA,200
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252764,138,Bangalore,Senior Hardware Engineer,208
+252765,139,Bangalore,Senior Developer - AWS,209
+252768,140,Pune,Java Fullstack Developer AVP,210
+252759,141,Bangalore,Anaplan Consultants,211
+252766,142,Pune,Project Manager / Scrum Master Role,212
+252762,20,Pune,DevOps Engineer,213
+252767,20,Pune,QA Automation Engineer,214
+252761,143,Mumbai,Teal Lead - Digital Marketing,215
+252763,144,Bangalore,Data Scientist (Operations Research),216
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252754,145,Ahmedabad,Senior Flutter Developer,217
+252749,146,Hyderabad,Software Engineer,218
+252752,147,Gurgaon,SE - Backend (Golang),219
+252750,20,Pune,Junior Backend Engineer,220
+252747,20,Pune,Junior Frontend Engineer,221
+252756,148,Bangalore,Front End Developer,222
+252753,149,Bangalore,Data Engineer Lead,223
+252755,24,Hyderabad,Full Stack Developer,224
+252757,24,Chennai,Software Engineer - Full Stack,225
+252745,150,Chennai,Lead Generation,226
+252764,138,Bangalore,Senior Hardware Engineer,208
+252765,139,Bangalore,Senior Developer - AWS,209
+252768,140,Pune,Java Fullstack Developer AVP,210
+252759,141,Bangalore,Anaplan Consultants,211
+252766,142,Pune,Project Manager / Scrum Master Role,212
+252762,20,Pune,DevOps Engineer,213
+252767,20,Pune,QA Automation Engineer,214
+252761,143,Mumbai,Teal Lead - Digital Marketing,215
+252763,144,Bangalore,Data Scientist (Operations Research),216
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252740,151,Bangalore,Performance Marketing Manager,227
+252742,152,Bangalore,DevOps Engineer,228
+252741,153,Hyderabad,Ruby Rails Developer,229
+252737,154,"Mumbai, Work From Home",Senior / Lead Backend Engineer,230
+252743,155,Bangalore,Channel Sales Manager,231
+252739,156,Bangalore,Action Coach,8
+252735,39,Bangalore,Business Analyst,232
+252736,157,Mumbai,Enterprise Account Executive,233
+252738,158,Bangalore,Full Stack Developer / Backend Developer,234
+252754,145,Ahmedabad,Senior Flutter Developer,217
+252749,146,Hyderabad,Software Engineer,218
+252752,147,Gurgaon,SE - Backend (Golang),219
+252750,20,Pune,Junior Backend Engineer,220
+252747,20,Pune,Junior Frontend Engineer,221
+252756,148,Bangalore,Front End Developer,222
+252753,149,Bangalore,Data Engineer Lead,223
+252755,24,Hyderabad,Full Stack Developer,224
+252757,24,Chennai,Software Engineer - Full Stack,225
+252745,150,Chennai,Lead Generation,226
+252764,138,Bangalore,Senior Hardware Engineer,208
+252765,139,Bangalore,Senior Developer - AWS,209
+252768,140,Pune,Java Fullstack Developer AVP,210
+252759,141,Bangalore,Anaplan Consultants,211
+252766,142,Pune,Project Manager / Scrum Master Role,212
+252762,20,Pune,DevOps Engineer,213
+252767,20,Pune,QA Automation Engineer,214
+252761,143,Mumbai,Teal Lead - Digital Marketing,215
+252763,144,Bangalore,Data Scientist (Operations Research),216
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252730,159,Bangalore,Staff Engineer,235
+252729,33,Bangalore,EM (Frontend),236
+252728,160,Mumbai,Infor Logistics,237
+252726,161,Work From Home,Associate / Senior Associate - Stakeholder Delight,168
+252727,146,Hyderabad,Senior Software Engineer,238
+252732,57,Chennai,Technical Writer,239
+252731,10,Bangalore,Software Development Engineer - 2,234
+252734,162,Work From Home,Senior Java Developer,240
+252740,151,Bangalore,Performance Marketing Manager,227
+252742,152,Bangalore,DevOps Engineer,228
+252741,153,Hyderabad,Ruby Rails Developer,229
+252737,154,"Mumbai, Work From Home",Senior / Lead Backend Engineer,230
+252743,155,Bangalore,Channel Sales Manager,231
+252739,156,Bangalore,Action Coach,8
+252735,39,Bangalore,Business Analyst,232
+252724,163,Bangalore,Program Management,144
+252736,157,Mumbai,Enterprise Account Executive,233
+252738,158,Bangalore,Full Stack Developer / Backend Developer,234
+252754,145,Ahmedabad,Senior Flutter Developer,217
+252750,20,Pune,Junior Backend Engineer,220
+252747,20,Pune,Junior Frontend Engineer,221
+252756,148,Bangalore,Front End Developer,222
+252753,149,Bangalore,Data Engineer Lead,223
+252755,24,Hyderabad,Full Stack Developer,224
+252757,24,Chennai,Software Engineer - Full Stack,225
+252745,150,Chennai,Lead Generation,226
+252764,138,Bangalore,Senior Hardware Engineer,208
+252765,139,Bangalore,Senior Developer - AWS,209
+252768,140,Pune,Java Fullstack Developer AVP,210
+252759,141,Bangalore,Anaplan Consultants,211
+252766,142,Pune,Project Manager / Scrum Master Role,212
+252762,20,Pune,DevOps Engineer,213
+252767,20,Pune,QA Automation Engineer,214
+252761,143,Mumbai,Teal Lead - Digital Marketing,215
+252763,144,Bangalore,Data Scientist (Operations Research),216
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252712,164,Bangalore,Software Engineer - Java,241
+252716,33,Bangalore,Research Manager,242
+252715,18,Bangalore,Senior Accountant,243
+252722,165,Bangalore,Agnirva.Com Space Tech Content Writer,244
+252721,166,Bangalore,Project Manager,245
+252719,111,Bangalore,Full - Stack Engineer,246
+252720,167,Work From Home,Staff C# Developer - Architect,247
+252717,99,Mumbai,Technical Solution Architect,248
+252714,168,Bangalore,Data Testing Engineer,249
+252718,168,Bangalore,SDET 2,250
+252730,159,Bangalore,Staff Engineer,235
+252729,33,Bangalore,EM (Frontend),236
+252728,160,Mumbai,Infor Logistics,237
+252726,161,Work From Home,Associate / Senior Associate - Stakeholder Delight,168
+252727,146,Hyderabad,Senior Software Engineer,238
+252732,57,Chennai,Technical Writer,239
+252731,10,Bangalore,Software Development Engineer - 2,234
+252734,162,Work From Home,Senior Java Developer,240
+252740,151,Bangalore,Performance Marketing Manager,227
+252742,152,Bangalore,DevOps Engineer,228
+252741,153,Hyderabad,Ruby Rails Developer,229
+252737,154,"Mumbai, Work From Home",Senior / Lead Backend Engineer,230
+252743,155,Bangalore,Channel Sales Manager,231
+252739,156,Bangalore,Action Coach,8
+252735,39,Bangalore,Business Analyst,232
+252724,163,Bangalore,Program Management,144
+252736,157,Mumbai,Enterprise Account Executive,233
+252738,158,Bangalore,Full Stack Developer / Backend Developer,234
+252754,145,Ahmedabad,Senior Flutter Developer,217
+252749,146,Hyderabad,Software Engineer,218
+252752,147,Gurgaon,SE - Backend (Golang),219
+252750,20,Pune,Junior Backend Engineer,220
+252747,20,Pune,Junior Frontend Engineer,221
+252756,148,Bangalore,Front End Developer,222
+252753,149,Bangalore,Data Engineer Lead,223
+252755,24,Hyderabad,Full Stack Developer,224
+252757,24,Chennai,Software Engineer - Full Stack,225
+252745,150,Chennai,Lead Generation,226
+252764,138,Bangalore,Senior Hardware Engineer,208
+252765,139,Bangalore,Senior Developer - AWS,209
+252768,140,Pune,Java Fullstack Developer AVP,210
+252759,141,Bangalore,Anaplan Consultants,211
+252766,142,Pune,Project Manager / Scrum Master Role,212
+252762,20,Pune,DevOps Engineer,213
+252767,20,Pune,QA Automation Engineer,214
+252761,143,Mumbai,Teal Lead - Digital Marketing,215
+252763,144,Bangalore,Data Scientist (Operations Research),216
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252712,164,Bangalore,Software Engineer - Java,241
+252716,33,Bangalore,Research Manager,242
+252715,18,Bangalore,Senior Accountant,243
+252707,169,Gurgaon,Technical Support Manager,251
+252708,170,Noida,Business Development Manager,252
+252710,171,Mumbai,SSE - Dotnet,253
+252711,172,Bangalore,Physical Design,254
+252709,9,Bangalore,Backend Engineer,255
+252706,167,"Bangalore, Pune",C++ Developer,256
+252722,165,Bangalore,Agnirva.Com Space Tech Content Writer,244
+252721,166,Bangalore,Project Manager,245
+252719,111,Bangalore,Full - Stack Engineer,246
+252720,167,Work From Home,Staff C# Developer - Architect,247
+252717,99,Mumbai,Technical Solution Architect,248
+252714,168,Bangalore,Data Testing Engineer,249
+252718,168,Bangalore,SDET 2,250
+252730,159,Bangalore,Staff Engineer,235
+252729,33,Bangalore,EM (Frontend),236
+252728,160,Mumbai,Infor Logistics,237
+252726,161,Work From Home,Associate / Senior Associate - Stakeholder Delight,168
+252727,146,Hyderabad,Senior Software Engineer,238
+252732,57,Chennai,Technical Writer,239
+252731,10,Bangalore,Software Development Engineer - 2,234
+252734,162,Work From Home,Senior Java Developer,240
+252740,151,Bangalore,Performance Marketing Manager,227
+252742,152,Bangalore,DevOps Engineer,228
+252741,153,Hyderabad,Ruby Rails Developer,229
+252737,154,"Mumbai, Work From Home",Senior / Lead Backend Engineer,230
+252743,155,Bangalore,Channel Sales Manager,231
+252739,156,Bangalore,Action Coach,8
+252735,39,Bangalore,Business Analyst,232
+252724,163,Bangalore,Program Management,144
+252736,157,Mumbai,Enterprise Account Executive,233
+252738,158,Bangalore,Full Stack Developer / Backend Developer,234
+252754,145,Ahmedabad,Senior Flutter Developer,217
+252749,146,Hyderabad,Software Engineer,218
+252752,147,Gurgaon,SE - Backend (Golang),219
+252750,20,Pune,Junior Backend Engineer,220
+252747,20,Pune,Junior Frontend Engineer,221
+252756,148,Bangalore,Front End Developer,222
+252753,149,Bangalore,Data Engineer Lead,223
+252755,24,Hyderabad,Full Stack Developer,224
+252757,24,Chennai,Software Engineer - Full Stack,225
+252745,150,Chennai,Lead Generation,226
+252764,138,Bangalore,Senior Hardware Engineer,208
+252765,139,Bangalore,Senior Developer - AWS,209
+252768,140,Pune,Java Fullstack Developer AVP,210
+252759,141,Bangalore,Anaplan Consultants,211
+252766,142,Pune,Project Manager / Scrum Master Role,212
+252762,20,Pune,DevOps Engineer,213
+252767,20,Pune,QA Automation Engineer,214
+252761,143,Mumbai,Teal Lead - Digital Marketing,215
+252763,144,Bangalore,Data Scientist (Operations Research),216
+252775,132,Pune,Senior Business Analyst - Risk[T500 - 7379,201
+252779,65,Bangalore,Testing Lead,202
+252770,133,Mohali,PHP Developer,203
+252782,26,Hyderabad,IT Manager,195
+252777,134,Gurgaon,Area Sales Manager,204
+252780,86,Ahmedabad,Relationship Manager,205
+252776,135,Gurgaon,HR Manager,206
+252778,103,Gurgaon,Senior Backend Engineer - Java [T500 - 7365,148
+252771,136,Bangalore,Verification Engineer,207
+252769,137,Bangalore,Product Manager,13
+252704,173,Gurgaon,C Linux Developer,257
+252698,174,"Bangalore, Work From Home",SDE 2 / 3 - Frontend (Women Return To Work),258
+252705,60,Pune,Data Analyst - Risk Domain,259
+252700,26,Hyderabad,Manager IT,260
+252702,26,Hyderabad,Manager IT,261
+252701,29,Bangalore,Principal Architect,262
+252695,103,Gurgaon,IT Infrastructure Manager [T500 - 7218,263
+252694,175,Bangalore,Android Developer,264
+252703,176,Gurgaon,DevOps Engineer,265
+252699,177,Bangalore,Datastage Developer - R24,266
+252683,178,Bangalore,Flutter Developer,267
+252685,141,Hyderabad,Scrum Master - Project Manager,268
+252693,26,Hyderabad,Business Product Advisor,269
+252687,179,Pune,Senior Sfotware Engineer,270
+252689,180,"Bangalore, Chennai",Full Stack Engineer,271
+252704,173,Gurgaon,C Linux Developer,257
+252698,174,"Bangalore, Work From Home",SDE 2 / 3 - Frontend (Women Return To Work),258
+252705,60,Pune,Data Analyst - Risk Domain,259
+252700,26,Hyderabad,Manager IT,260
+252702,26,Hyderabad,Manager IT,261
+252701,29,Bangalore,Principal Architect,262
+252695,103,Gurgaon,IT Infrastructure Manager [T500 - 7218,263
+252694,175,Bangalore,Android Developer,264
+252688,181,"Bangalore, Gurgaon, Work From Home",Software Engineer,230
+252684,176,Gurgaon,Senior DevOps Engineer,272
+252686,182,Bangalore,Data Platform,273
+252680,183,Bangalore,Software Engineer,274
+252676,184,Gurgaon,SDET,275
+252670,185,Bangalore,Enterprise Sales Representative,276
+252675,186,Bangalore,Senior Engineer Virtualisation,277
+252681,187,Gurgaon,HR Executive,278
+252678,188,Work From Home,Backend Developer,279
+252672,42,Bangalore,Branch Manager,280
+252682,189,Work From Home,Customer Engineer,281
+252671,177,Bangalore,Datastage Developer - R24,282
+252679,190,Bangalore,AI Engineer,283
+252683,178,Bangalore,Flutter Developer,267
+252685,141,Hyderabad,Scrum Master - Project Manager,268
+252693,26,Hyderabad,Business Product Advisor,269
+252687,179,Pune,Senior Sfotware Engineer,270
+252689,180,"Bangalore, Chennai",Full Stack Engineer,271
+252704,173,Gurgaon,C Linux Developer,257
+252698,174,"Bangalore, Work From Home",SDE 2 / 3 - Frontend (Women Return To Work),258
+252705,60,Pune,Data Analyst - Risk Domain,259
+252700,26,Hyderabad,Manager IT,260
+252702,26,Hyderabad,Manager IT,261
+252701,29,Bangalore,Principal Architect,262
+252695,103,Gurgaon,IT Infrastructure Manager [T500 - 7218,263
+252694,175,Bangalore,Android Developer,264
+252688,181,"Bangalore, Gurgaon, Work From Home",Software Engineer,230
+252684,176,Gurgaon,Senior DevOps Engineer,272
+252686,182,Bangalore,Data Platform,273
+252703,176,Gurgaon,DevOps Engineer,265
+252699,177,Bangalore,Datastage Developer - R24,266
+252668,33,Bangalore,Engineering Manager - Backend,284
+252664,184,Gurgaon,Enterprise Data Architect,285
+252665,146,Hyderabad,Software Engineer,218
+252663,7,Hyderabad,SAP FICO Consultant,286
+252662,170,Noida,Business Development Manager,287
+252667,170,Noida,Presales Executive,288
+252659,191,Bangalore,Senior DevOps Engineer,289
+252680,183,Bangalore,Software Engineer,274
+252676,184,Gurgaon,SDET,275
+252670,185,Bangalore,Enterprise Sales Representative,276
+252675,186,Bangalore,Senior Engineer Virtualisation,277
+252681,187,Gurgaon,HR Executive,278
+252678,188,Work From Home,Backend Developer,279
+252672,42,Bangalore,Branch Manager,280
+252682,189,Work From Home,Customer Engineer,281
+252671,177,Bangalore,Datastage Developer - R24,282
+252679,190,Bangalore,AI Engineer,283
+252683,178,Bangalore,Flutter Developer,267
+252685,141,Hyderabad,Scrum Master - Project Manager,268
+252693,26,Hyderabad,Business Product Advisor,269
+252687,179,Pune,Senior Sfotware Engineer,270
+252689,180,"Bangalore, Chennai",Full Stack Engineer,271
+252704,173,Gurgaon,C Linux Developer,257
+252698,174,"Bangalore, Work From Home",SDE 2 / 3 - Frontend (Women Return To Work),258
+252705,60,Pune,Data Analyst - Risk Domain,259
+252700,26,Hyderabad,Manager IT,260
+252702,26,Hyderabad,Manager IT,261
+252701,29,Bangalore,Principal Architect,262
+252695,103,Gurgaon,IT Infrastructure Manager [T500 - 7218,263
+252694,175,Bangalore,Android Developer,264
+252688,181,"Bangalore, Gurgaon, Work From Home",Software Engineer,230
+252684,176,Gurgaon,Senior DevOps Engineer,272
+252686,182,Bangalore,Data Platform,273
+252703,176,Gurgaon,DevOps Engineer,265
+252699,177,Bangalore,Datastage Developer - R24,266
+252651,192,Bangalore,Senior Fullstack Engineer,290
+252658,74,Chennai,Full Stack Developer,291
+252650,140,Pune,Vice President - Big Data Engineering,292
+252653,193,Bangalore,Node.js Developer,143
+252652,193,Bangalore,React Native Developer,293
+252657,177,Chennai,Datastage Developer - AS,294
+252654,177,Gurgaon,Datastage Developer - AS,295
+252655,177,Gurgaon,Datastage Developer - AS,296
+252656,177,Chennai,Datastage Developer - AS,297
+252649,194,Bangalore,Business Development Executive,78
+252643,195,Bangalore,Senior Software Engineer C#,298
+252648,196,Bangalore,Sr. Data Platform Engineer - Hadoop Administration,299
+252638,197,Work From Home,Content Writer,300
+252647,198,Hyderabad,Backend Engineer,301
+252639,199,Chandigarh,Full Stack Developer (MERN),188
+252644,177,Bangalore,Datastage Developer - AS,302
+252646,177,Bangalore,Datastage Developer - AS,303
+252640,177,Chennai,Datastage Developer - SA24,304
+252637,177,Gurgaon,Datastage Developer SA24,305
+252645,200,"Bangalore, Gurgaon, Mumbai",Senior Data Scientist,306
+252651,192,Bangalore,Senior Fullstack Engineer,290
+252658,74,Chennai,Full Stack Developer,291
+252650,140,Pune,Vice President - Big Data Engineering,292
+252653,193,Bangalore,Node.js Developer,143
+252652,193,Bangalore,React Native Developer,293
+252657,177,Chennai,Datastage Developer - AS,294
+252654,177,Gurgaon,Datastage Developer - AS,295
+252655,177,Gurgaon,Datastage Developer - AS,296
+252656,177,Chennai,Datastage Developer - AS,297
+252649,194,Bangalore,Business Development Executive,78
+252626,201,Work From Home,Software Engineer (Analytics Focus),307
+252625,174,"Bangalore, Work From Home",SDE2 / SDE3 Backend (Women Return To Work),308
+252636,202,Mohali,Copywriter,309
+252634,48,Bangalore,Technical Program Manager,310
+252628,103,Gurgaon,Lead Service Desk Tech Support - Service Desk Tech,311
+252629,110,Gurgaon,Customer Support Executive,168
+252635,203,Hyderabad,Senior Engineer - Quality Testing (Manual API),312
+252633,177,Bangalore,Datastage Developer SA24,305
+252627,204,Work From Home,Ruby on Rails Developer,313
+252632,205,Gurgaon,Software Engineer,314
+252623,206,Bangalore,Android Developer,315
+252624,206,Bangalore,iOS Developer,316
+252612,26,Hyderabad,Full Stack Developer,317
+252614,146,Hyderabad,Senior Software Engineer,218
+252615,146,Hyderabad,Senior Software Engineer,318
+252622,207,Bangalore,Senior Frontend Developer,319
+252619,208,"Bangalore, Chennai, Hyderabad",UI Engineer,320
+252616,50,Hyderabad,Senior Engineer,321
+252618,167,Bangalore,"Java / .NET Distributed System, Strong System D",322
+252613,209,Mumbai,Admission Counsellor,226
+252597,82,Kolkata,SAP Ariba Consultant,323
+252606,89,Work From Home,Backend Engineer,324
+252610,195,Bangalore,"Software Engineer, Back End",325
+252605,195,Bangalore,"Software Engineer, Back End",326
+252601,65,Bangalore,Apexon,327
+252604,210,Delhi,Website Developer,328
+252595,211,Mumbai,Java Tech Lead,329
+252596,212,Hyderabad,Automation Engineer,330
+252603,213,Chennai,Software Engineer,331
+252607,214,Bangalore,Java Developer,332
+252592,74,Chennai,Mean Stack Developer,333
+252594,184,Gurgaon,Java Developer,334
+252581,215,Noida,Sr. Software Engineer,335
+252584,216,Bangalore,Associate Delivery Manager,336
+252589,217,Bangalore,DevOps Engineer,337
+252580,76,Bhubaneshwar,Business Development Manager,338
+252582,76,Visakhapatnam,Business Development Manager,338
+252590,3,"Bangalore, Mumbai, Noida",Senior Sales Manager,339
+252586,191,Bangalore,Power BI Developer,340
+252587,218,Bangalore,Full Stack Developer - Java,341
+252564,126,Gurgaon,Ground Sales Lead,342
+252565,84,Bangalore,Senior Developer - Android,343
+252576,219,Work From Home,NestJS Developer,344
+252579,76,Tirupati,Business Development Manager,172
+252573,220,Bangalore,Technical Writer,345
+252569,221,Work From Home,Product Marketing Associate,346
+252572,221,Work From Home,Product Marketing Manager,347
+252577,222,Bangalore,Java Developer,348
+252567,223,Pune,Software Engineer - Java,349
+252575,24,Bangalore,Data Engineer,350
+252563,224,Bangalore,Executive Care Delight,351
+252560,225,"Delhi, Hyderabad",Sales and Operation Manager,78
+252554,226,Gurgaon,Data Engineer,352
+252556,146,Hyderabad,Software Engineer,218
+252551,20,Pune,Junior Front End Developer,353
+252555,227,Bangalore,Software Engineer,354
+252552,228,Bangalore,Engineering Head,355
+252559,80,Work From Home,Account Manager,356
+252557,80,Work From Home,Creative Strategist,357
+252561,137,Bangalore,iOS Developer,358
+252549,229,Work From Home,Data Scientist,359
+252543,230,Bangalore,Pre - Sales and Marketing Analyst,360
+252539,103,Gurgaon,IT Support Engineer - Asset Management (T500 - 7367),361
+252550,20,Pune,Junior Back End Developer,362
+252545,20,Pune,QA - Automation Tester,363
+252547,20,Pune,Senior Front End Developer,364
+252537,231,Work From Home,Senior Software Engineer,365
+252546,232,Bangalore,Business Development Representative Intern,366
+252544,233,Mumbai,Deputy Manager - Digital Marketing Manager,367
+252548,234,Bangalore,Java Developer - Lead,368
+252526,235,Noida,Wordpress Developer,369
+252529,236,Chennai,Senior Software Engineer - Application Development,370
+252525,237,Work From Home,Senior Site Reliability Engineer,371
+252527,237,Work From Home,Senior Site Reliability Engineer,372
+252532,238,Work From Home,Senior Data Engineer,373
+252523,239,Mumbai,Global Sourcing Lead,374
+252530,240,Kochi,.NET Developer - Kochi Locaiton WFO,375
+252528,241,Indore,React Native Developer,376
+252534,198,Hyderabad,Backend Engineer,148
+252517,242,Work From Home,JavaScript Developer,377
+252514,17,Work From Home,Senior Full Stack Developer,378
+252516,17,Work From Home,Senior Full Stack Developer,379
+252520,141,"Bangalore, Delhi, Hyderabad",Lead BAU Support Engineer,380
+252518,243,Ahmedabad,Social Media Manager,381
+252522,244,Bangalore,Engineering Manager,382
+252519,187,Gurgaon,Campus Recruitment Manager,383
+252513,211,Mumbai,UI UX Designer,384
+252512,245,Work From Home,Oracle DBA,385
+252515,246,Work From Home,React Developer,386
+252503,247,Noida,Talent Acquisition Specialist,387
+252505,235,Delhi,Wordpress Developer,388
+252509,245,Mumbai,Customer Service Executive,389
+252507,245,Mumbai,Security Analyst,390
+252508,248,Jaipur,Salesforce Developer,391
+252502,249,Bangalore,Senior Associate - Lead Development Representative,392
+252510,64,Gurgaon,Cybersecurity Analyst - Swift Payment [T500 - 7162,390
+252504,64,Work From Home,JDA Developer - Supply Chain Management [T500 - 7338,393
+252506,64,Work From Home,Solutions Architect - JDA [T500 - 7314,394
+252500,250,Bangalore,Software Engineer,395
+252488,251,Hyderabad,Technical Consultant - SAP MDG,396
+252492,236,Chennai,Senior Software Engineer - Low Level Device Driver,397
+252499,252,"Ghaziabad, Work From Home",Sales Executive,172
+252489,64,Work From Home,JDA Developer - Supply Chain Management [T500 - 734,393
+252493,64,Work From Home,SSIS Developer - ETL,398
+252496,64,Work From Home,SSIS Developer - ETL [T500 - 7339,398
+252491,64,Work From Home,Supply Chain Lead - Inventory Management[T500 - 7335,399
+252494,253,"Chennai, Mumbai",ERPNext Developer,400
+252490,198,Hyderabad,Senior Software Engineer,401
+252486,254,Hyderabad,Inside Sales Executive,402
+252477,255,Hyderabad,Software Simulation Engineer,403
+252476,256,Pune,Presales Consultant,404
+252482,14,"Bangalore, Gurgaon",Sales Development Representative,405
+252481,103,Gurgaon,Senior Analyst Quality Engineer [T500 - 5583,406
+252475,64,Work From Home,Business Analyst - Inventory Management[T500 - 7331,399
+252484,64,Work From Home,JDA Developer - Supply Chain Management[T500 - 7333,393
+252480,64,Work From Home,Software Backend Developer [T500 - 7187,95
+252483,257,Pune,SDET,407
+252478,257,Mumbai,Test Engineer,408
+252485,254,Hyderabad,Accountant,409
