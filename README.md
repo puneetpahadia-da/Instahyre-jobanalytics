@@ -1,12 +1,12 @@
 # Project Name: Instahyre Job Analytics
 
 <p align="center">
-  <img src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/4d12f489-95e8-48a9-a6fc-4fabdc60c6cd" alt="WhatsApp Video 2023-07-24 at 10 15 43 AM">
+  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/582770d0-e7e1-4c9a-bec8-50bbbdc11ed1">
 </p>
 
 ## Introduction
 
-The project's objective is to gather job-related information from Instahyre using Python's Selenium library and organize it in a specified format. The collected data will then be converted into three separate tables: jobs, company, and details, utilizing the Pandas library. To enable user-friendly searches, a search bar will be implemented using the Flask web framework, allowing users to look up skills. The search results will display essential details, such as the most common experience level, industry, and company class where the skill is in demand, along with the number of available job opportunities. To enhance user experience, the FuzzyBuzzy library will be employed to correct any input errors made by users in the search bar.
+The project's objective is to gather job-related information from Instahyre using Python's Selenium library and organize it in a specified format. The collected data will then be converted into three separate tables: jobs, company, and details, utilizing the Pandas library. A search bar will be implemented using the Flask web framework to enable user-friendly searches, allowing users to look up skills. The search results will display essential details, such as the most common experience level, industry, company class where the skill is in demand, and the number of available job opportunities. To enhance the user experience, the FuzzyBuzzy library will be employed to correct any input errors made by users in the search bar.
 
 
 ## Problem Aimed to Solve:
@@ -15,7 +15,7 @@ The project's objective is to gather job-related information from Instahyre usin
 2. Provide comprehensive job details - Rich information for users.
 3. Enhance search query accuracy - Improve search results precision.
 4. Analyze job market trends - Identify employment patterns and demands.
-5. Increase job matching efficiency - Connect candidates with suitable positions.
+5. Increase job matching efficiency - connecting candidates with suitable positions.
 
 ##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
 
@@ -72,14 +72,14 @@ The following methodology was used to accomplish the project objectives:
 
 1. _Data Scraping:_ Job data was obtained from Instahyre using Python's Selenium library, considering specific criteria like job titles, locations, and company names.
 
-2. _Data Conversion:_ Utilizing Pandas, the scraped data underwent transformation into three tables: jobs, company, and details.
+2. _Data Conversion:_ Utilizing Pandas, the scraped data underwent a transformation into three tables: jobs, company, and details.
 
 3. _Data Cleaning and Preparation:_ The data cleaning phase involved eliminating irrelevant data, handling missing values, standardizing formats, removing duplicates, cleaning text, managing outliers, type conversion, consistency checks, categorical data normalization, and ensuring data integrity.
 
-4. _Company Classification:_ Companies were classified into five classes (Class0 to Class4) based on employee count and company age using K-Means clustering. The optimal number of clusters was determined using the Elbow Method.
+4. _Company Classification:_ Companies were classified into five classes (Class 0 to Class 4) based on employee count and company age using K-Means clustering. The optimal number of clusters was determined using the Elbow Method.
 
 <p align="center">
-  <img src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/963ab2b2-0efe-462d-84ce-a27c856594aa" width="500">
+  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/4bbc80fe-66fc-4f09-bd54-4fcaa179d8e7" width="500">
 </p>
 
 <h5 align=center>
@@ -87,7 +87,7 @@ The following methodology was used to accomplish the project objectives:
 </h5>
    
 <p align="center">
-  <img src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/a0208a2f-8b59-4e7c-9d4b-44156d544d79" width="500" length="500">
+  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/2207b84a-1e0b-45e0-99f5-4ec305d543b3" width="500" length="500">
 
 
 </p>
@@ -101,7 +101,7 @@ The following methodology was used to accomplish the project objectives:
 
 ### 1. This webpage is designed to accept user input.
 <p align="center">
-  <img width="800" alt="image" src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/f71fe8fe-8c48-42cc-a6fe-9116c9e78eb6">
+  <img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/09cfc740-c907-4a34-a91c-fb5ae2732a37">
 </p>
 
 
@@ -109,37 +109,31 @@ The following methodology was used to accomplish the project objectives:
 ### 2. The webpage generates output based on the skills searched by the users.
 
 <p align = "center">
-<img width="800" alt="image" src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/fef38b12-0871-473e-9e3a-fb0b6357eedc">
+<img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/565d68be-5c3c-44a6-ae0d-cf83729196b6">
 </p>
 
 
 ### 3. This webpage showcases a comprehensive list of jobs related to specific skills entered by users, along with supplementary information.
 
 <p align = "center" >
-  <img width="800" alt="image" src="https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/bf5d54d1-3cff-4a37-abce-5ef8dcc43d83">
+  <img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/7e2aeea5-aa5f-4910-82e5-9613bfd24934">
 </p>
-
-## A short demo video of our app (Deployed on the local host server)
-
-
-https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/128a105f-8b21-4664-b706-2106456a0a21
-
 
 ## Challenges:
 
-- Creating Webpage with the help of HTML and CSS.
-- User Input Text Processing and learning Fuzzy wuzzy.
-- Creating a backend with Flask and returning output to a webpage.
-- Understanding the different ways to deploy the model.
+- Creating web pages with the help of HTML and CSS
+- User Input Text Processing and Learning Fuzzy Wuzzy
+- Creating a backend with Flask and returning output to a webpage
+- Understanding the different ways to deploy the model
 
 ## References
 
-- Python Software Foundation. (2022). Python Language Reference, version 3.10. Retrieved from https://docs.python.org/3/reference/index.html
-  
-- Selenium with Python: https://selenium-python.readthedocs.io/
-  
-- Wikipedia contributors. (2023, April 13). Flask (web framework). In Wikipedia, The Free Encyclopedia. Retrieved 15:48, April 22, 2023, from "https://en.wikipedia.org/wiki/Flask_(web_framework)"
-
 - Scikit-learn developers. (n.d.). Clustering. Retrieved April 22, 2023, from "https://scikit-learn.org/stable/modules/clustering.html"
 
+- Selenium with Python: https://selenium-python.readthedocs.io/
+  
 - FuzzyBuzzy. (n.d.). FuzzyBuzzy Documentation. Retrieved April 22, 2023, from "https://pypi.org/project/fuzzybuzzy/"
+
+- Python Software Foundation. (2022). Python Language Reference, version 3.10. Retrieved from https://docs.python.org/3/reference/index.html
+
+- Wikipedia contributors. (2023, April 13). Flask (web framework). In Wikipedia, The Free Encyclopedia. Retrieved 15:48, April 22, 2023, from "https://en.wikipedia.org/wiki/Flask_(web_framework)"
