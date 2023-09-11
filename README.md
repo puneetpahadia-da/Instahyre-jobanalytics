@@ -1,7 +1,7 @@
 # Instahyre Job Analytics
 
 <p align="center">
-  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/582770d0-e7e1-4c9a-bec8-50bbbdc11ed1">
+  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/a33ba448-6f99-457b-9899-fa8eb7f9292f">
 </p>
 
 ## Introduction
@@ -79,7 +79,7 @@ The following methodology was used to accomplish the project objectives:
 4. _Company Classification:_ Companies were classified into five classes (Class 0 to Class 4) based on employee count and company age using K-Means clustering. The optimal number of clusters was determined using the Elbow Method.
 
 <p align="center">
-  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/4bbc80fe-66fc-4f09-bd54-4fcaa179d8e7" width="500">
+  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/d8f6c2fb-a0f7-40ac-95ed-32a733f99b49" width="500">
 </p>
 
 <h5 align=center>
@@ -87,7 +87,7 @@ The following methodology was used to accomplish the project objectives:
 </h5>
    
 <p align="center">
-  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/2207b84a-1e0b-45e0-99f5-4ec305d543b3" width="500" length="500">
+  <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/eeb59fee-061c-4fda-8993-b076d551d73f" width="500" length="500">
 
 
 </p>
@@ -101,7 +101,7 @@ The following methodology was used to accomplish the project objectives:
 
 ### 1. This webpage is designed to accept user input.
 <p align="center">
-  <img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/09cfc740-c907-4a34-a91c-fb5ae2732a37">
+  <img width="400" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/b088f536-602c-4544-9e57-814cb93cac9d">
 </p>
 
 
@@ -109,14 +109,14 @@ The following methodology was used to accomplish the project objectives:
 ### 2. The webpage generates output based on the skills searched by the users.
 
 <p align = "center">
-<img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/565d68be-5c3c-44a6-ae0d-cf83729196b6">
+<img width="400" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/d05237c3-c242-4111-8af5-7620101561bf">
 </p>
 
 
 ### 3. This webpage showcases a comprehensive list of jobs related to specific skills entered by users, along with supplementary information.
 
 <p align = "center" >
-  <img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/7e2aeea5-aa5f-4910-82e5-9613bfd24934">
+  <img width="800" alt="image" src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/dc21492b-bf52-49f2-9095-25cc9e300770">
 </p>
 
 ## Challenges:
