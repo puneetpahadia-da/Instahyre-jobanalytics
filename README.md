@@ -1,4 +1,4 @@
-# Project Name: Instahyre Job Analytics
+# Instahyre Job Analytics
 
 <p align="center">
   <img src="https://github.com/puneetpahadia-da/Instahyre-jobanalytics/assets/97096168/582770d0-e7e1-4c9a-bec8-50bbbdc11ed1">
